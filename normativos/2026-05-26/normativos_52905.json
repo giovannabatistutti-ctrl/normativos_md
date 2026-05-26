@@ -1,0 +1,107 @@
+{
+  "normativo": {
+    "id": "normativos_52905",
+    "titulo": "BC - Resolução BCB N° 568 de 06/05/2026",
+    "ementa": "Altera o Regulamento de Avaliação de Desempenho dos Servidores da Carreira de Especialista do Banco Central do Brasil durante o Estágio Probatório.",
+    "data_publicacao": "2026-05-07T08:13:01-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568",
+    "tipo": "Resolução BCB",
+    "numero": "568",
+    "ano_norma": "2026",
+    "texto_integral": "Essa pagina depende do javascript para abrir, favor habilitar o javascript do seu browser!",
+    "texto_fonte": "html",
+    "capturado_em": "2026-05-26T16:00:55.284719-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52905",
+    "normativo_titulo": "BC - Resolução BCB N° 568 de 06/05/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A norma aborda temas relevantes ao iFood Pago (banco central) mas não menciona explicitamente as entidades do conglomerado. Monitorar.",
+    "passo1_tipo": "Resolução BCB nº 568 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] banco central",
+      "[MONITORAR] banco"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "REASONING_LAYER.md",
+    "feedback_aplicado": false,
+    "feedback_notas": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52905",
+    "normativo_titulo": "BC - Resolução BCB N° 568 de 06/05/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "pilar_estrategico": {
+      "pilar": "Impacto Estratégico",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto estratégico não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.0,
+    "justificativa_consolidada": "Score médio ponderado: 1.00/4.0",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52905",
+    "titulo": "BC - Resolução BCB N° 568 de 06/05/2026",
+    "tipo": "Resolução BCB",
+    "numero": "568",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Essa pagina depende do javascript para abrir, favor habilitar o javascript do seu browser!",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Monitorar norma e avaliar aplicabilidade em revisão periódica"
+    ],
+    "politicas_revisar": [],
+    "areas_responsaveis": [],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568",
+    "data_publicacao": "2026-05-07T08:13:01-03:00",
+    "data_analise": "2026-05-26 16:00",
+    "markdown": "# BC - Resolução BCB N° 568 de 06/05/2026\n\n> **Análise iFood Pago | Compliance** — 2026-05-26 16:00\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução BCB |\n| **Número** | 568 |\n| **Data de Publicação** | 2026-05-07T08:13:01-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nEssa pagina depende do javascript para abrir, favor habilitar o javascript do seu browser!\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Monitorar norma e avaliar aplicabilidade em revisão periódica\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-05-26T16:00:57.692022-03:00"
+  }
+}
