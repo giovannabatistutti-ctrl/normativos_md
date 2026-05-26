@@ -35,14 +35,17 @@
 | Produto/Serviço | Segmento | Status |
 |---|---|---|
 | Conta de Pagamento | B2C, B2B | ✅ Ativo |
-| Cartão de crédito | B2C | ✅ Ativo |
+| Cartão de crédito | B2C,B2B | ✅ Ativo |
 | Cartão de benefícios (PAT — Programa de Alimentação do Trabalhador) | B2C, B2B | ✅ Ativo |
 | BNPL (Buy Now Pay Later) | B2C | ✅ Ativo |
 | Antecipação de recebíveis | B2B (Restaurantes) | ✅ Ativo |
 | POS (máquina de cartão) | B2B (Restaurantes) | ✅ Ativo |
 | Pix | B2C, B2B | ✅ Ativo |
 | Open Finance / ITP | B2C, B2B | ✅ Ativo |
+| Representante de Seguros | B2C,B2B | 🔄 Em breve |
 | Carteira Digital | B2C | 🔄 Em breve |
+| Credenciamento / Adquirência | B2B | 🔄 Em breve |
+
 
 ### 1.5 Público Atendido
 
@@ -51,6 +54,7 @@
 | **B2B — Restaurantes** | Banco do Restaurante: conta, antecipação, POS, cartão |
 | **B2C — Pessoa física** | Conta, cartão de crédito, benefícios, Pix, BNPL |
 | **BaaS** | Banking as a Service para parceiros/clientes corporativos |
+| **Credenciador/Adquirente** | Banking as a Service para parceiros/clientes corporativos |
 
 ### 1.6 Fora do Escopo — O iFood Pago NÃO opera com
 
@@ -102,8 +106,8 @@ Responder às perguntas abaixo. Uma resposta "SIM" já indica que a norma é pot
 | Pix (normas específicas) | ✅ APLICÁVEL | Pix, Conta pagamento |
 | Open Finance / Open Banking | ✅ APLICÁVEL | Open Finance, ITP |
 | Conta de pagamento | ✅ APLICÁVEL | Conta pagamento, Carteira Digital |
-| Crédito / SCD | ✅ APLICÁVEL | BNPL, Antecipação de recebíveis, Cartão crédito |
-| PAT / Benefícios alimentares | ✅ APLICÁVEL | Cartão de benefícios |
+| Crédito / SCD | ✅ APLICÁVEL | BNPL, Antecipação de recebíveis, Cartão crédito, crédito pessoal, crédito capital de giro |
+| PAT / Benefícios alimentares / auxílio ao trabalhador | ✅ APLICÁVEL | Cartão de benefícios |
 | PLD/FT (prevenção à lavagem de dinheiro e financiamento ao terrorismo) | ✅ APLICÁVEL | Todos os produtos |
 | Fraudes e segurança | ✅ APLICÁVEL | Todos os produtos |
 | LGPD / Privacidade financeira | ✅ APLICÁVEL | Todos os produtos |
@@ -117,6 +121,9 @@ Responder às perguntas abaixo. Uma resposta "SIM" já indica que a norma é pot
 | Tesouraria / liquidez / gestão de ativos | ✅ APLICÁVEL | Gestão financeira |
 | Segurança cibernética (IFs) | ✅ APLICÁVEL | Infraestrutura |
 | BaaS / Banking as a Service | ✅ APLICÁVEL | BaaS |
+| Representante de Seguros | ⚠️ MONITORAR | Pode afetar parcerias com seguradoras |
+| BNDES / FGI | ⚠️ MONITORAR | produto sendo estruturado |
+| Financeiras (SCFI) | ⚠️ MONITORAR | Pode afetar parceiros/BaaS |
 | Câmbio | ❌ NÃO APLICÁVEL | Não opera |
 | Crédito rural | ❌ NÃO APLICÁVEL | Não opera |
 | Crédito imobiliário | ❌ NÃO APLICÁVEL | Não opera |
@@ -124,7 +131,8 @@ Responder às perguntas abaixo. Uma resposta "SIM" já indica que a norma é pot
 | Seguros / SUSEP | ❌ NÃO APLICÁVEL | Fora do regulador principal |
 | Mercado de capitais / CVM | ❌ NÃO APLICÁVEL | Fora do regulador principal |
 | Cooperativas de crédito | ❌ NÃO APLICÁVEL | Não se aplica à estrutura |
-| Financeiras (SCFI) | ⚠️ MONITORAR | Pode afetar parceiros/BaaS |
+| Aviões / Aeronáutica | ❌ NÃO APLICÁVEL | Não se aplica à estrutura |
+| Marítimo | ❌ NÃO APLICÁVEL | Não se aplica à estrutura |
 
 ### PASSO 4 — Classificação final
 
