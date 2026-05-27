@@ -62,6 +62,7 @@ Responder às perguntas abaixo. Uma resposta "SIM" já indica que a norma é pot
 | Tesouraria / liquidez / gestão de ativos | ✅ APLICÁVEL | Gestão financeira |
 | Segurança cibernética (IFs) | ✅ APLICÁVEL | Infraestrutura |
 | BaaS / Banking as a Service | ✅ APLICÁVEL | BaaS |
+| Normas de aplicação interna do Banco Central do Brasil | ❌ NÃO APLICÁVEL | 
 | Câmbio | ❌ NÃO APLICÁVEL | Não opera |
 | Crédito rural | ❌ NÃO APLICÁVEL | Não opera |
 | Crédito imobiliário | ❌ NÃO APLICÁVEL | Não opera |
