@@ -186,6 +186,7 @@ Verificar a ementa e os artigos iniciais: para quais instituições a norma se a
 | Detentores de conta (Open Finance) | ✅ Potencialmente aplicável |
 | Apenas bancos comerciais / múltiplos | ⚠️ Avançar para 2º passo |
 | Apenas seguradoras / CVM / cooperativas | ❌ Provavelmente NÃO APLICÁVEL |
+| Normas internas do Banco Central | ❌ Provavelmente NÃO APLICÁVEL |
 
 **2º) Tema vs. produtos ativos**
 Se o escopo for ambíguo ou mencionar "instituições financeiras" em geral, verificar se o tema coincide com algum produto ou atividade do iFood Pago (ver tabela completa na Seção 2 do REASONING_LAYER.md).
