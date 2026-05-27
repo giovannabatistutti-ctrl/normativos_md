@@ -15,8 +15,10 @@
 
 | Entidade | Tipo | Papel |
 |---|---|---|
-| **iFood Pago Instituição de Pagamento S.A.** | IP (Instituição de Pagamento) | Líder do conglomerado |
+| **iFood Pago Instituição de Pagamento S.A.** | IP (Instituição de Pagamento) | Líder do conglomerado | Segmento S5
 | **iFood Pago Sociedade de Crédito Direto S.A. (SCD)** | SCD | Operações de crédito |
+
+
 
 ### 1.2 Classificação Regulatória
 
@@ -34,26 +36,31 @@
 | Participante facultativo do Pix (acesso direto) | ✅ Ativo |
 | Detentor de conta (Open Finance) | ✅ Ativo |
 | ITP — Iniciador de Transação de Pagamento (Open Finance) | ✅ Ativo |
+| Emissor de Cartão de Crédito (IP)| ✅ Ativo |
 
 ### 1.4 Produtos e Serviços Ativos
 
 | Produto/Serviço | Segmento | Status |
 |---|---|---|
 | Conta de Pagamento | B2C, B2B | ✅ Ativo |
-| Cartão de crédito | B2C | ✅ Ativo |
-| Cartão de benefícios (PAT — Programa de Alimentação do Trabalhador) | B2C, B2B | ✅ Ativo |
+| Cartão de crédito | B2C, B2B | ✅ Ativo |
+| Cartão de benefícios (PAT — Programa de Alimentação do Trabalhador) e auxílios | B2C, B2B | ✅ Ativo |
 | BNPL (Buy Now Pay Later) | B2C | ✅ Ativo |
 | Antecipação de recebíveis | B2B (Restaurantes) | ✅ Ativo |
+| Crédito Fumaça / Crédito Capital de Giro / Crédito / Garantia de Recebíveis de Cartão de Crédito| B2B (Restaurantes) | ✅ Ativo |
 | POS (máquina de cartão) | B2B (Restaurantes) | ✅ Ativo |
 | Pix | B2C, B2B | ✅ Ativo |
-| Open Finance / ITP | B2C, B2B | ✅ Ativo |
-| Carteira Digital | B2C | 🔄 Em breve |
+| Open Finance / ITP / Detentor de Conta | B2C, B2B | ✅ Ativo |
+| Representante de Seguro | B2C, B2B | ✅ Ativo |
+| Carteira Digital | B2C, B2B | 🔄 Em breve |
+| Credenciador | B2B | 🔄 Em breve |
+
 
 ### 1.5 Público Atendido
 
 | Segmento | Descrição |
 |---|---|
-| **B2B — Restaurantes** | Banco do Restaurante: conta, antecipação, POS, cartão |
+| **B2B — Restaurantes** | Banco do Restaurante: conta, antecipação, POS, cartão de crédito, crédito |
 | **B2C — Pessoa física** | Conta, cartão de crédito, benefícios, Pix, BNPL |
 | **BaaS** | Banking as a Service para parceiros/clientes corporativos |
 
@@ -63,9 +70,11 @@
 - Crédito rural
 - Crédito imobiliário
 - Ativos virtuais / criptoativos
-- Seguros (regulação SUSEP)
-- Mercado de capitais (regulação CVM)
+- Seguros (regulação SUSEP) - exceto Representante de Seguro
+- Mercado de capitais (regulação CVM) - exceto FIDC
 - Cooperativas de crédito
+- Aeronáutica / Financiamento Aviões
+- 
 
 ---
 
@@ -91,7 +100,7 @@
 
 | Prioridade | Tema | Implicações | Monitorar |
 |---|---|---|---|
-| 🔴 **Alta** | Reclassificação S5→S4/S3 | Requisitos prudenciais mais rigorosos (capital, governança, reporte) | Normativos sobre critérios de segmento |
+| 🔴 **Alta** | Reclassificação S5→S4/S3 | Requisitos prudenciais (capital, governança, reporte) | Normativos sobre critérios de segmento |
 | 🔴 **Alta** | Subcredenciador→Credenciador | Novos requisitos operacionais, técnicos e regulatórios | Normas sobre credenciamento e arranjos de pagamento |
 | 🟡 **Média** | Carteira Digital (em implantação) | KYC, limites operacionais e proteção ao consumidor | Normativos sobre contas de pagamento e wallets |
 | 🟡 **Média** | Evolução do Open Finance | Novas obrigações para ITP e detentor de conta | Resoluções BCB sobre Open Finance |
@@ -103,4 +112,4 @@
 ## Seção 7 — Políticas Internas
 
 > Detalhes em **[`REASONING_LAYER_POLITICAS.md`](./REASONING_LAYER_POLITICAS.md)** (34 documentos).
-> Verificar se política interna atende normativo (reduz criticidade) ou há lacuna (aumenta criticidade). Acionar área responsável conforme listado.
+> Verificar se política interna atende normativo (reduz criticidade), há lacuna (aumenta criticidade) ou se a norma exige atualização ou criação de política. Acionar área responsável conforme listado.
