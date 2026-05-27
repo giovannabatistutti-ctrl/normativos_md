@@ -28,6 +28,7 @@ Responder às perguntas abaixo. Uma resposta "SIM" já indica que a norma é pot
 | A norma menciona **Instituições de Pagamento (IPs)**? | → Relevante |
 | A norma menciona **Sociedades de Crédito Direto (SCD)**? | → Relevante |
 | A norma menciona **conglomerados prudenciais Tipo 3**? | → Relevante |
+| A norma menciona **capital regulatório**? | → Relevante |
 | A norma menciona **Segmento S5** (ou S4/S3)? | → Relevante |
 | A norma menciona **participantes do Pix**? | → Relevante |
 | A norma menciona **Open Finance / Open Banking**? | → Relevante |
@@ -79,6 +80,7 @@ Com base nos passos anteriores, atribuir uma das três classificações:
 
 **Ações:**
 - Salvar íntegra do normativo em `data/normativos-bcb/<data>/<arquivo>.md`
+- Analisar o inteiro teor da norma
 - Notificar canal Slack de Compliance (#compliance-normativos ou equivalente)
 - Classificar nível de impacto (ver Seção 3)
 - Identificar ações recomendadas (ver Seção 4)
