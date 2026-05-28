@@ -194,7 +194,7 @@ Para cada normativo **APLICÁVEL**, avaliar os 4 pilares abaixo e atribuir níve
 | Pilar | Peso |
 |---|---|
 | Impacto Operacional | 1.0 |
-| Impacto Regulatório | **1.5** (peso maior — pilar de conformidade) |
+| Impacto Regulatório | 1.0|
 | Impacto Financeiro | 1.0 |
 | Impacto em Clientes | 1.0 |
 
@@ -220,32 +220,31 @@ Faixa: 1 a 16 pontos
 
 | Quadrante | Pontuação | Impacto | Probabilidade | Criticidade |
 |---|---|---|---|---|
-| **A** | 16 | Muito Alto | Certamente | 🔴 CRÍTICO MÁXIMO |
-| **E** | 15 | Muito Alto | Provável | 🔴 CRÍTICO |
-| **B** | 14 | Alto | Certamente | 🔴 CRÍTICO |
-| **F** | 13 | Alto | Provável | 🔴 CRÍTICO |
+| **A** | 16 | Muito Alto | Certamente | 🔴 CRÍTICO |
+| **E** | 15 | Muito Alto | Provável | 🔴 MUITO ALTO |
 | **I** | 12 | Muito Alto | Possível | 🟠 ALTO |
+| **M** | 8  | Muito Alto | Remota | 🟡 MÉDIO |
+| **B** | 14 | Alto | Certamente |  🔴 MUITO ALTO  |
+| **F** | 13 | Alto | Provável | 🔴 MUITO ALTO |
+| **J** | 10 | Alto | Possível | 🟡 MÉDIO |
+| **N** | 5  | Alto | Remota | 🟡 MÉDIO |
 | **C** | 11 | Médio | Certamente | 🟠 ALTO |
-| **J** | 10 | Alto | Possível | 🟠 ALTO |
-| **G** | 9 | Médio | Provável | 🟠 ALTO |
-| **M** | 8 | Muito Alto | Remota | 🟡 MÉDIO |
-| **D** | 7 | Baixo | Certamente | 🟡 MÉDIO |
-| **K** | 6 | Médio | Possível | 🟡 MÉDIO |
-| **N** | 5 | Alto | Remota | 🟡 MÉDIO |
-| **H** | 4 | Baixo | Provável | 🟢 BAIXO |
-| **O** | 3 | Médio | Remota | 🟢 BAIXO |
-| **L** | 2 | Baixo | Possível | 🟢 BAIXO |
-| **P** | 1 | Baixo | Remota | 🟢 BAIXO — BAIXÍSSIMO |
+| **G** | 9  | Médio | Provável | 🟡 MÉDIO |
+| **K** | 6  | Médio | Possível | 🟡 MÉDIO |
+| **O** | 3  | Médio | Remota | 🟢 BAIXO |
+| **D** | 7  | Baixo | Certamente | 🟡 MÉDIO |
+| **H** | 4  | Baixo | Provável | 🟡 MÉDIO |
+| **L** | 2  | Baixo | Possível | 🟢 BAIXO |
+| **P** | 1  | Baixo | Remota | 🟢 BAIXO |
 
 #### Definição de Criticidade e Prazos
 
-| Criticidade | Quadrantes | Ação | Prazo máximo |
+| Criticidade | Quadrantes | Ação | 
 |---|---|---|---|
-| 🔴 **CRÍTICO** | A, E, B, F | Ação imediata — escalar para liderança Compliance + áreas impactadas | **5 dias úteis** |
-| 🟠 **ALTO** | I, C, J, G | Ação urgente — acionar áreas e iniciar plano de adequação | **15 dias úteis** |
-| 🟡 **MÉDIO** | M, D, K, N | Monitorar e planejar — incluir no ciclo de adequação | **30 dias corridos** |
-| 🟢 **BAIXO** | H, O, L, P | Registrar e acompanhar — revisão regular de compliance | **Ciclo regular** |
-
+| 🔴 **CRÍTICO** | A, E, B, F | Ação imediata |
+| 🟠 **ALTO** | I, C | Ação urgente |
+| 🟡 **MÉDIO** | M, J, D, K, N, H, G | Monitorar e planejar |
+| 🟢 **BAIXO** | O, L, P | Registrar e acompanhar |
 ---
 
 ### 3.4 — Formato de Saída Padronizado nos Arquivos `.md` dos Normativos
@@ -264,29 +263,4 @@ Para cada normativo classificado como ✅ **APLICÁVEL**, adicionar o seguinte b
 
 **Score ponderado:** {valor} ({Baixo/Médio/Alto/Muito Alto})
 **Probabilidade:** {Remota/Possível/Provável/Certamente}
-**Criticidade:** {🔴 CRÍTICO | 🟠 ALTO | 🟡 MÉDIO | 🟢 BAIXO}
-**Prazo recomendado para adequação:** {prazo}
-```
-
----
-
-## Seção 4 — Ações Recomendadas por Tipo de Norma
-
-> Mapa de acionamento de áreas internas com base no tema da norma classificada.
-
-| Tema da Norma | Áreas a Acionar |
-|---|---|
-| Capital / Patrimônio Líquido / Prudencial | Finanças + Riscos + Compliance |
-| Produtos (cartão, Pix, conta de pagamento, BNPL) | Product + Compliance |
-| PLD/FT / Prevenção a Fraudes | PLD/AML team + Compliance |
-| LGPD / Privacidade / Proteção de dados | DPO + Jurídico + Compliance |
-| Operacional / Processos internos | Operações + Compliance |
-| CADOCs / COSIF / Reporte prudencial | Contabilidade + Regulatório + Compliance |
-| Proteção ao consumidor / Usuário de SF | SAC + Compliance |
-| Tecnologia / Segurança cibernética | CISO + Tecnologia + Compliance |
-| Open Finance / ITP | Product Open Finance + Compliance |
-| Credenciamento / Subcredenciamento | Operações + Produto POS + Compliance |
-| BaaS / Correspondente bancário | BaaS team + Jurídico + Compliance |
-| Tesouraria / Liquidez | Finanças + Riscos + Compliance |
-| PAT / Benefícios | Produto Benefícios + Compliance |
-| Pix (regulamento e normas específicas) | Produto Pix + Tecnologia + Compliance |
+**Criticidade:** {🔴 CRÍTICO | 🟠 ALTO | 🟡 MÉDIO | 🟢 BAIXO} 
