@@ -14,3 +14,6 @@ Todos os normativos capturados ja transformados em arquivo md
 
 
 | 2026-05-28 | [Resolução CMN nº 5.307](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5307) | 🟡 MONITORAR | MÉDIO |
+
+
+| 2026-05-28 | [Resolução BCB nº 571](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=571) | 🟡 MONITORAR | BAIXO |
