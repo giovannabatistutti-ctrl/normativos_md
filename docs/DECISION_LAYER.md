@@ -205,7 +205,7 @@ Para cada normativo **APLICÁVEL**, avaliar os 4 pilares abaixo e atribuir níve
 | Score Ponderado | Criticidade |
 |---|---|
 | 3.5 – 4.0 | 🔴 **CRÍTICO** |
-| 3.0 – 3.4 | 🔴 **ALTO** |
+| 3.0 – 3.4 | 🟠 **ALTO** |
 | 2.0 – 2.9 | 🟡 **MÉDIO** |
 | 1.0 – 1.9 | 🟢 **BAIXO** |
 
@@ -237,7 +237,7 @@ Faixa: 1 a 16 pontos
 | **L** | 2  | Baixo | Possível | 🟢 BAIXO |
 | **P** | 1  | Baixo | Remota | 🟢 BAIXO |
 
-#### Definição de Criticidade e Prazos
+#### Definição de Criticidade 
 
 | Criticidade | Quadrantes | Ação | 
 |---|---|---|---|
