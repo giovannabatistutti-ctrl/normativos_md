@@ -4,4 +4,69 @@
 "audit_2026_05_28_04190120","2026-05-28T17:59:37.909361-03:00","normativos_52915","Instrução Normativa BCB","738","2026","BC - Instrução Normativa BCB N° 738 de 27/05/2026","inicial","pipeline_bcb","NÃO APLICÁVEL","null","Normativo: Instrução Normativa BCB nº 738 (2026). Reasoning Layer aplicado: . Racional base:","","","","","{}","Normativo fora do escopo iFood Pago","[]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.5","19617","","47c394bc3e86710066188cb8e5b281f3e0ce0578","null"
 "audit_2026_05_28_84dc4d4b","2026-05-28T18:01:43.421781-03:00","normativos_52915","Instrução Normativa BCB","738","2026","BC - Instrução Normativa BCB N° 738 de 27/05/2026","inicial","pipeline_bcb","NÃO APLICÁVEL","null","Normativo: Instrução Normativa BCB nº 738 (2026). Reasoning Layer aplicado: . Racional base:","","","","","{}","Normativo fora do escopo iFood Pago","[]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.5","19743","","ac90be05eb255f9e3c7ed56452b55c2782778050","null"
 "audit_2026_05_28_cf68c398","2026-05-28T18:01:45.110177-03:00","normativos_52914","Resolução CMN","5.307","2026","BC - Resolução CMN N° 5.307 de 26/05/2026","inicial","pipeline_bcb","NÃO APLICÁVEL","null","Normativo: Resolução CMN nº 5.307 (2026). Reasoning Layer aplicado: . Racional base:","","","","","{}","Normativo fora do escopo iFood Pago","[]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.5","19745","","eb063b1128c0f4cc50bb6a40edf015efc84c4a7b","null"
-"audit_2026_05_28_5019ad21","2026-05-28T18:03:32.514273-03:00","normativos_52915","Instrução Normativa BCB","738","2026","Instrução Normativa BCB N° 738 de 27/05/2026","reanalise_feedback","pipeline_reanalise","MONITORAR","NÃO APLICÁVEL","REANÁLISE pós-feedback #feedback_e2e_test_001. Classificação alterada de NÃO APLICÁVEL para MONITORAR. Justificativa: Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.. Reasoning Layer: Camada 1: Verificação do tipo normativo — Instrução Normativa BCB. Camada 2: Análise de conteúdo e prazo de implementação. Camada 3: Feedback humano corretivo — prazo de 6 meses identificado.","Camada 1: Verificação do tipo normativo — Instrução Normativa BCB. Camada 2: Análise de conteúdo e prazo de implementação. Camada 3: Feedback humano corretivo — prazo de 6 meses identificado.","PASSO 1: Verificar escopo do normativo. PASSO 2: Avaliar prazo de implementação. PASSO 3: Feedback indica prazo de 6 meses → reclassificar para MONITORAR.","MÉDIO","Prazo de implementação de 6 meses pode impactar operações","{""regulatorio"": ""Necessário monitorar prazo de implementação"", ""operacional"": ""Baixo impacto direto"", ""financeiro"": ""Impacto indireto possível"", ""clientes"": ""Baixo""}","Com o prazo de 6 meses identificado no texto integral, o normativo deve ser monitorado para verificar impacto operacional. Reclassificação de NÃO APLICÁVEL para MONITORAR.","[""Compliance"", ""Jurídico""]","feedback_e2e_test_001","Corretivo","Giovanna Batistutti","Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.","Classificação alterada de NÃO APLICÁVEL para MONITORAR. Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.","Com o prazo de 6 meses identificado no texto integral, o normativo deve ser monitorado para verificar impacto operacional. Reclassificação de NÃO APLICÁVEL para MONITORAR.","[""Política de Conformidade Regulatória"", ""Política de Monitoramento""]","[""prazo"", ""implementação"", ""Instrução Normativa"", ""BCB""]","ementa","alta","0.85","78","Reanálise disparada por feedback de Giovanna Batistutti","null","null"
+"audit_2026_05_28_5019ad21","2026-05-28T18:03:32.514273-03:00","normativos_52915","Instrução Normativa BCB","738","2026","Instrução Normativa BCB N° 738 de 27/05/2026","reanalise_feedback","pipeline_reanalise","MONITORAR","NÃO APLICÁVEL","REANÁLISE pós-feedback #feedback_e2e_test_001. Classificação alterada de NÃO APLICÁVEL para MONITORAR. Justificativa: Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.. Reasoning Layer: Camada 1: Verificação do tipo normativo — Instrução Normativa BCB. Camada 2: Análise de conteúdo e prazo de implementação. Camada 3: Feedback humano corretivo — prazo de 6 meses identificado.","Camada 1: Verificação do tipo normativo — Instrução Normativa BCB. Camada 2: Análise de conteúdo e prazo de implementação. Camada 3: Feedback humano corretivo — prazo de 6 meses identificado.","PASSO 1: Verificar escopo do normativo. PASSO 2: Avaliar prazo de implementação. PASSO 3: Feedback indica prazo de 6 meses → reclassificar para MONITORAR.","MÉDIO","Prazo de implementação de 6 meses pode impactar operações","{""regulatorio"": ""Necessário monitorar prazo de implementação"", ""operacional"": ""Baixo impacto direto"", ""financeiro"": ""Impacto indireto possível"", ""clientes"": ""Baixo""}","Com o prazo de 6 meses identificado no texto integral, o normativo deve ser monitorado para verificar impacto operacional. Reclassificação de NÃO APLICÁVEL para MONITORAR.","[""Compliance"", ""Jurídico""]","feedback_e2e_test_001","Corretivo","Giovanna Batistutti","Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.","Classificação alterada de NÃO APLICÁVEL para MONITORAR. Teste end-to-end: este normativo tem prazo de implementação de 6 meses, rebaixar para MONITORAR.","Com o prazo de 6 meses identificado no texto integral, o normativo deve ser monitorado para verificar impacto operacional. Reclassificação de NÃO APLICÁVEL para MONITORAR.","[""Política de Conformidade Regulatória"", ""Política de Monitoramento""]","[""prazo"", ""implementação"", ""Instrução Normativa"", ""BCB""]","ementa","alta","0.85","78","Reanálise disparada por feedback de Giovanna Batistutti","77e64abe7ed57cd87a3e0c2d13a694bbbc9b038b","null"
+"audit_2026_05_28_eca4fb3f","2026-05-28T18:47:44.855252-03:00","instrucao_normativa_bcb_722","Instrução Normativa BCB","722","2026","Instrução Normativa BCB nº 722, de 13 de abril de 2026","inicial","agente_toqan","APLICÁVEL","null","🔴 APLICÁVEL — Instrução Normativa BCB nº 722/2026
+
+**1. Identificação**
+Foi publicada a Instrução Normativa BCB nº 722, de 13 de abril de 2026, que divulga a versão 8.2 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), parte integrante do Regulamento do Pix. Revoga a Instrução Normativa BCB nº 702, de 27 de janeiro de 2026.
+
+**2. Vigência**
+11 de maio de 2026.
+
+**3. Resumo**
+*(i)* O iFood Pago, como participante direto do Pix, utiliza o DICT e está sujeito às regras do Manual Operacional.
+*(ii)* A versão 8.2 do Manual Operacional do DICT traz alterações e ajustes operacionais, incluindo fluxos de reivindicação, sincronismo, notificações de infração, limites de requisições à API do DICT, e mecanismos de prevenção a ataques de leitura.
+*(iii)* Impacto em CADOCs/reportes: não identificado diretamente, mas pode haver necessidade de ajustes operacionais e de conformidade.
+*(iv)* Ponto de atenção: revisar as alterações no Manual Operacional do DICT e garantir conformidade até a data de vigência.
+
+**Diferença em relação à norma anterior:** A nova versão do Manual Operacional (8.2) substitui a versão anterior (8.1), com ajustes em fluxos operacionais, nomenclaturas, prazos e limites de requisições.
+
+**4. Íntegra:** 📄 [Link oficial](https://in.gov.br/web/dou/-/instrucao-normativa-bcb-n-722-de-13-de-abril-2026-699855491)
+
+**5. Próximos Passos**
+Peço por gentileza que as áreas de Operações e Tecnologia revisem as alterações no Manual Operacional do DICT (versão 8.2) e avaliem os impactos operacionais e de conformidade até 11 de maio de 2026. Caso necessário, posso agendar um GT para alinhamento.
+
+🎯 Avaliação de Risco
+| Pilar | Nível | Motivo |
+|---|---|---|
+| ⚙️ Operacional | 3 | Alterações no Manual Operacional do DICT exigem revisão de fluxos e sistemas. |
+| ⚖️ Regulatório | 3 | Conformidade obrigatória com o Regulamento do Pix e o Manual Operacional do DICT. |
+| 💰 Financeiro | 2 | Potencial impacto financeiro limitado a ajustes operaciona","REASONING_LAYER.md completo via RAG do agente Toqan","Análise LLM via agente Toqan — ver racional completo","ALTO","| Pilar | Nível | Motivo |
+|---|---|---|
+| ⚙️ Operacional | 3 | Alterações no Manual Operacional do DICT exigem revisão de fluxos e sistemas. |
+| ⚖️ Regulatório | 3 | Conformidade obrigatória com o Regulamento do Pix e o Manual Operacional do DICT. |
+| 💰 Financeiro | 2 | Potencial impacto financeiro limitado a ajustes operacionais. |
+| 👥 Clientes | 2 | Impacto indireto em clientes, relacionado à continuidade e segurança das operações Pix. |","{""impacto_operacional"": 3, ""impacto_financeiro"": 2, ""impacto_clientes"": 2}","Análise gerada pelo agente Toqan via RAG com base no REASONING_LAYER.md","[""Compliance"", ""Operações"", ""Tecnologia""]","null","null","null","null","null","null","[]","[""pix"", ""dict"", ""banco central""]","dou_html","alta","0.6","-1","Processado via pipeline manual — normativo obtido via DOU HTML","pending","pending"
+"audit_2026_05_28_f607d88c","2026-05-28T18:47:44.855462-03:00","resolucao_conjunta_18_2025","Resolução Conjunta","18","2025","Resolução Conjunta nº 18, de 28 de novembro de 2025","inicial","agente_toqan","APLICÁVEL","null","🔴 APLICÁVEL — Resolução Conjunta nº 18/2025
+
+**1. Identificação**
+Foi publicada a Resolução Conjunta nº 18, de 28 de novembro de 2025, que dispõe sobre a política de qualidade das informações prestadas na esfera de atuação do Banco Central do Brasil pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+
+**2. Vigência**
+1º de janeiro de 2026.
+
+**3. Resumo**
+*(i)* A norma exige que instituições autorizadas pelo Banco Central, como o iFood Pago, implementem uma política de qualidade das informações prestadas, abrangendo dados quantitativos e qualitativos, documentos e relatórios enviados ao regulador.
+*(ii)* Obrigações incluem a criação de uma política robusta, com governança clara, arquitetura de dados adequada, validação de informações, relatórios semestrais sobre qualidade e medidas saneadoras para irregularidades.
+*(iii)* Impacto em CADOCs/reportes: a norma reforça a necessidade de precisão, tempestividade e rastreabilidade das informações reportadas ao Banco Central, o que pode exigir ajustes nos processos internos de reporte.
+*(iv)* Ponto de atenção: a política deve ser implementada até 1º de janeiro de 2026, com relatórios semestrais a partir dessa data.
+
+**4. Íntegra:** 📄 [Resolução Conjunta nº 18/2025](https://in.gov.br/web/dou/-/resolucao-conjunta-n-18-de-28-de-novembro-de-2025-672006584)
+
+**5. Próximos Passos**
+Peço por gentileza que as áreas de Governança, Compliance e Tecnologia da Informação avaliem os requisitos da norma e verifiquem:
+- A existência de uma política de qualidade das informações compatível com os requisitos da norma.
+- A adequação da arquitetura de dados e dos processos de validação e reporte.
+- A necessidade de ajustes nos sistemas e controles internos para atender às dimensões de qualidade exigidas.
+Solicito retorno até 15 de dezembro de 2025 para alinhamento e planejamento de eventuais adequações.
+
+🎯 Avaliação de Risco
+| Pilar | Nível | Motivo |
+|---|---|---|
+| ⚙️ Operacional | 3 | Ex","REASONING_LAYER.md completo via RAG do agente Toqan","Análise LLM via agente Toqan — ver racional completo","ALTO","| Pilar | Nível | Motivo |
+|---|---|---|
+| ⚙️ Operacional | 3 | Exige ajustes em processos e sistemas de reporte para atender às novas exigências. |
+| ⚖️ Regulatório | 4 | Norma impõe obrigação direta ao iFood Pago, com risco de sanções em caso de não conformidade. |
+| 💰 Financeiro | 2 | Custos moderados para implementação de sistemas e controles, mas sem impacto direto em receitas. |
+| 👥 Clientes | 1 | Impacto indireto, sem alteração na experiência do cliente. |","{""impacto_operacional"": 3, ""impacto_regulatorio"": 4, ""impacto_financeiro"": 2, ""impacto_clientes"": 1}","Análise gerada pelo agente Toqan via RAG com base no REASONING_LAYER.md","[""Compliance"", ""Operações"", ""Tecnologia""]","null","null","null","null","null","null","[]","[""qualidade"", ""informações"", ""compliance"", ""bcb""]","dou_html","alta","0.6","-1","Processado via pipeline manual — normativo obtido via DOU HTML","pending","pending"
+"audit_2026_05_28_0ab53753","2026-05-28T19:31:35.842977-03:00","normativos_52916","Resolução BCB","571","2026","BC - Resolução BCB N° 571 de 28/05/2026","inicial","pipeline_bcb","MONITORAR","null","Normativo: Resolução BCB nº 571 (2026). Reasoning Layer aplicado: A Res. BCB nº 571 não é diretamente aplicável mas deve ser monitorada pois tornar público o relatório de gestão fiscal do 1º quadrimestre de 2026 desta corte, na forma constante de seu anexo, pertinente ao período de maio de 2025 a abril de 2026. Temas a acompanhar: banco, risco, financeira.. Racional base:","A Res. BCB nº 571 não é diretamente aplicável mas deve ser monitorada pois tornar público o relatório de gestão fiscal do 1º quadrimestre de 2026 desta corte, na forma constante de seu anexo, pertinente ao período de maio de 2025 a abril de 2026. Temas a acompanhar: banco, risco, financeira.","A Res. BCB nº 571 não é diretamente aplicável mas deve ser monitorada pois tornar público o relatório de gestão fiscal do 1º quadrimestre de 2026 desta corte, na forma constante de seu anexo, pertinente ao período de maio de 2025 a abril de 2026. Temas a acompanhar: banco, risco, financeira.","BAIXO","","{""operacional"": """", ""regulatorio"": """", ""financeiro"": """", ""clientes"": """"}","","[]","null","null","null","null","null","null","[]","[]","dou_pdf","MÉDIA","0.65","0","","null","null"
