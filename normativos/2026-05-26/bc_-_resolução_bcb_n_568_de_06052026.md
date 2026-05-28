@@ -1,6 +1,7 @@
 # BC - Resolução BCB N° 568 de 06/05/2026
 
-> **Análise iFood Pago | Compliance** — 2026-05-26 16:00
+> **Análise iFood Pago | Compliance** — 27/05/2026 21:56  
+> **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
 
@@ -10,53 +11,32 @@
 |---|---|
 | **Tipo** | Resolução BCB |
 | **Número** | 568 |
-| **Data de Publicação** | 2026-05-07T08:13:01-03:00 |
-| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568) |
+| **Data de Publicação** | 2026-05-07 |
+| **Vigência** | Verificar texto integral |
+| **Link oficial** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568) |
 
 ---
 
-## Classificação e Criticidade
+## Classificação
 
-| Classificação | Score de Criticidade |
+| Campo | Valor |
 |---|---|
-| 🟡 **MONITORAR** | 🟢 **BAIXO** |
+| **Classificação** | 🟡 **MONITORAR** |
+| **Confiança** | MÉDIA |
+| **Criticidade** | 🟢 **BAIXO** |
 
 ---
 
-## O Que a Norma Determina
+## Racional da Classificação
 
-Essa pagina depende do javascript para abrir, favor habilitar o javascript do seu browser!
-
----
-
-## Para Quem se Aplica
-
-A verificar — consultar norma original.
+A norma aborda temas relevantes ao iFood Pago (banco central) mas não menciona explicitamente as entidades do conglomerado. Monitorar.
 
 ---
 
-## Prazo de Adequação
+## Ementa
 
-Não identificado — verificar norma
-
----
-
-## Ações Requeridas
-
-- Monitorar norma e avaliar aplicabilidade em revisão periódica
+Altera o Regulamento de Avaliação de Desempenho dos Servidores da Carreira de Especialista do Banco Central do Brasil durante o Estágio Probatório.
 
 ---
 
-## Políticas Internas a Revisar
-
-- Nenhuma política identificada
-
----
-
-## Áreas Responsáveis
-
-- A definir
-
----
-
-*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*
+*Pipeline normativos-bcb | iFood Pago Compliance | 27/05/2026 21:56*
