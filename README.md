@@ -20,3 +20,6 @@ Todos os normativos capturados ja transformados em arquivo md
 
 
 | 2026-05-28 | [Resolução Conjunta nº 18](https://in.gov.br/web/dou/-/resolucao-conjunta-n-18-de-28-de-novembro-de-2025-672006584) | 🟡 MONITORAR | MÉDIO |
+
+
+| 2026-05-29 | [Resolução BCB nº 572](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=572) | 🟡 MONITORAR | BAIXO |
