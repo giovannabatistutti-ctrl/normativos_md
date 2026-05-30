@@ -23,3 +23,6 @@ Todos os normativos capturados ja transformados em arquivo md
 
 
 | 2026-05-29 | [Resolução BCB nº 572](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=572) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-05-29 | [Instrução Normativa BCB nº 740](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740) | 🔴 APLICÁVEL | MÉDIO |
