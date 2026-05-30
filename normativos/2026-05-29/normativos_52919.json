@@ -1,0 +1,205 @@
+{
+  "normativo": {
+    "id": "normativos_52919",
+    "titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
+    "ementa": "Estabelece as orientações, as condições e os prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance.",
+    "data_publicacao": "2026-05-29T18:32:54-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "740",
+    "ano_norma": "2026",
+    "texto_integral": "-A | - Extra A | Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária RESOLUÇÃO-RE nº 2.236, DE 29 DE MAIO DE 2026 A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve: Art. 1º Revogar a Resolução - RE nº 1.834, de 5 de maio de 2026, publicada no DOU nº 84, de 7 de maio de 2026, Seção 1, página 154, conforme anexo. Art. 2º Esta Resolução entra em vigor na data de sua publicação. RENATA DE LIMA SOARES ANEXO 1. Empresa: QUÍMICA AMPARO LTDA - CNPJ: 43.461.789/0001-90 Produto - (Lote): LAVA LOUÇAS YPÊ CLEAR CARE(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS COM ENZIMAS ATIVAS YPÊ(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS YPÊ(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS YPÊ CLEAR CARE(25351.732782/2017-47);LAVA LOUÇAS YPÊ TOQUE SUAVE(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS CONCENTRADO YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS YPÊ CLEAR(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LIQUIDO TIXAN YPÊ COMBATE MAU ODOR(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LIQUIDO TIXAN YPÊ CUIDA DAS ROUPAS(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ ANTIBAC(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ COCO E BAUNILHA(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ EXPRESS(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ POWER ACT(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ PREMIUM(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN MACIEZ(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN PRIMAVERA(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE BAK YPÊ(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE DE USO GERAL ATOL(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE PERFUMADO ATOL(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE PINHO YPE(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN POWER ACT(Todos os lotes que terminam com o número 1 (um). ); Tipo de Produto: Saneantes Expediente nº: 0531008/26-3 Assunto: 70358 - Revogação de Ações de Fiscalização em Vigilância Sanitária Ações de fiscalização revogadas: Recolhimento Suspensão - Comercialização, Distribuição, Fabricação, Uso Motivação: Considerando a inspeção conjunta, realizada pela Anvisa, Estado e Município, nos dias 28 e 29/05/2026, conforme Ficha de Procedimento nº 01.000.705/26, revoga-se a Resolução-RE n.º 1834, de 5 de maio de 2025, publicada em 7/05/2026 no D.O.U. n.º 84, Seção 1, pág. 154.",
+    "texto_fonte": "dou_pdf",
+    "url_fonte": "https://in.gov.br/web/dou/-/resolucao-re-n-2.236-de-29-de-maio-de-2026-709480606",
+    "capturado_em": "2026-05-29T21:01:34.492546-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52919",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
+    "classificacao": "APLICÁVEL",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 740 aplica-se diretamente ao iFood Pago pois revogar a resolução - re nº 1. Menciona explicitamente: open finance. Temas relevantes: pagamento, open finance.",
+    "passo1_tipo": "Instrução Normativa BCB nº 740 (2026)",
+    "passo2_atinge_ifood": true,
+    "passo2_razoes": [
+      "open finance"
+    ],
+    "passo3_temas": [
+      "[APLICÁVEL] pagamento",
+      "[APLICÁVEL] open finance"
+    ],
+    "passo4_classificacao": "APLICÁVEL",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-026",
+        "nome": "Política de Cadastro (KYC/CDD)",
+        "area_responsavel": "Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-026"
+      },
+      {
+        "codigo": "iFP-POL-013",
+        "nome": "Política de Prevenção e Combate a Fraudes",
+        "area_responsavel": "Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-013"
+      },
+      {
+        "codigo": "iFP-PRD-01",
+        "nome": "Procedimento de Gerenciamento de Riscos de Chargeback",
+        "area_responsavel": "Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-01"
+      },
+      {
+        "codigo": "iFP-POL-017",
+        "nome": "Política de Retenção e Governança de Dados",
+        "area_responsavel": "DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-017"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": false,
+    "feedback_notas": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52919",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
+    "classificacao": "APLICÁVEL",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "ALTO",
+      "score_numerico": 3,
+      "justificativa": "Impacto em processos operacionais: procedimento.",
+      "elementos_identificados": [
+        "procedimento"
+      ]
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "ALTO",
+      "score_numerico": 3,
+      "justificativa": "Obrigações regulatórias significativas: revogação.",
+      "elementos_identificados": [
+        "revogação"
+      ]
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "MÉDIO",
+    "score_numerico": 2.111111111111111,
+    "justificativa_consolidada": "Pilares ALTOS: Impacto Operacional, Impacto Regulatório. Score médio ponderado: 2.11/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52919",
+    "titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "740",
+    "classificacao": "APLICÁVEL",
+    "score_criticidade": "MÉDIO",
+    "o_que_determina": "-A | - Extra A | Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária RESOLUÇÃO-RE nº 2.236, DE 29 DE MAIO DE 2026 A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve: Art. 1º Revogar a Resolução - RE nº 1.",
+    "para_quem_se_aplica": "**Entidades:** iFood Pago (Open Finance / ITP) | **Produtos:** Open Finance / ITP",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago",
+      "Mapear obrigações regulatórias específicas e definir plano de adequação com prazos",
+      "Avaliar impacto em sistemas e processos operacionais; envolver TI e Produtos"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-026 — Política de Cadastro (KYC/CDD) (Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).)",
+      "iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)",
+      "iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)",
+      "iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)"
+    ],
+    "areas_responsaveis": [
+      "Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas",
+      "Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo",
+      "Produtos / Open Finance / ITP — Avaliar impacto no Open Finance e ITP",
+      "Compliance/PLD (1ª e 2ª linhas) / Responsável por iFP-POL-026 — Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo",
+      "Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo",
+      "Tecnologia / Produtos / Engineering — Avaliar impacto em sistemas e plataformas; estimar esforço de adequação"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740",
+    "data_publicacao": "2026-05-29T18:32:54-03:00",
+    "data_analise": "2026-05-29 21:01",
+    "markdown": "# BC - Instrução Normativa BCB N° 740 de 29/05/2026\n\n> **Análise iFood Pago | Compliance** — 2026-05-29 21:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 740 |\n| **Data de Publicação** | 2026-05-29T18:32:54-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🔴 **APLICÁVEL** | 🟡 **MÉDIO** |\n\n---\n\n## O Que a Norma Determina\n\n-A | - Extra A | Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária RESOLUÇÃO-RE nº 2.236, DE 29 DE MAIO DE 2026 A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve: Art. 1º Revogar a Resolução - RE nº 1.\n\n---\n\n## Para Quem se Aplica\n\n**Entidades:** iFood Pago (Open Finance / ITP) | **Produtos:** Open Finance / ITP\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago\n- Mapear obrigações regulatórias específicas e definir plano de adequação com prazos\n- Avaliar impacto em sistemas e processos operacionais; envolver TI e Produtos\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-026 — Política de Cadastro (KYC/CDD) (Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).)\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n- iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)\n- iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)\n\n---\n\n## Áreas Responsáveis\n\n- Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas\n- Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo\n- Produtos / Open Finance / ITP — Avaliar impacto no Open Finance e ITP\n- Compliance/PLD (1ª e 2ª linhas) / Responsável por iFP-POL-026 — Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n- Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo\n- DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo\n- Tecnologia / Produtos / Engineering — Avaliar impacto em sistemas e plataformas; estimar esforço de adequação\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Compliance",
+      "time": "Compliance Regulatório",
+      "acao": "Analisar norma e coordenar adequação entre áreas",
+      "prioridade": "ALTA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Produtos",
+      "time": "Arranjos de Pagamento",
+      "acao": "Verificar conformidade do arranjo",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Produtos",
+      "time": "Open Finance / ITP",
+      "acao": "Avaliar impacto no Open Finance e ITP",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Compliance/PLD (1ª e 2ª linhas)",
+      "time": "Responsável por iFP-POL-026",
+      "acao": "Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Fraudes/Risk (coordenação)",
+      "time": "Responsável por iFP-POL-013",
+      "acao": "Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Risco/Fraudes (avaliação)",
+      "time": "Responsável por iFP-PRD-01",
+      "acao": "Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "DPO (coordenação e conformidade LGPD)",
+      "time": "Responsável por iFP-POL-017",
+      "acao": "Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    },
+    {
+      "area": "Tecnologia / Produtos",
+      "time": "Engineering",
+      "acao": "Avaliar impacto em sistemas e plataformas; estimar esforço de adequação",
+      "prioridade": "MÉDIA",
+      "segmento": "B2B"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-05-29T21:01:51.577438-03:00"
+  }
+}
