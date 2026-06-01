@@ -37,6 +37,9 @@
 | Detentor de conta (Open Finance) | ✅ Ativo |
 | ITP — Iniciador de Transação de Pagamento (Open Finance) | ✅ Ativo |
 | Emissor de Cartão de Crédito (IP)| ✅ Ativo |
+| Transmissor de Dados (Open Finance) | Inativo |
+| Receptor de Dados (Open Finance) | Inativo |
+
 
 ### 1.4 Produtos e Serviços Ativos
 
