@@ -21,6 +21,8 @@ Antes de classificar qualquer normativo, ler todos os registros neste arquivo e:
 > Regras extraídas de feedbacks que se aplicam a qualquer normativo futuro.
 > Formato: [DATA] REGRA: {descrição} | ORIGEM: Feedback #{n}
 
+[2026-06-01] REGRA: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP) | ORIGEM: Feedback IN BCB 740 + Giovanna 01/06/2026
+
 [2026-05-22] REGRA: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago | ORIGEM: Feedback #1
 
 ---
@@ -118,3 +120,76 @@ Ao receber suas respostas:
 **Observações:** Classificação confirmada como correta pela analista. Confiança pode ser elevada para ALTA em futuras análises de normativos do mesmo tipo/escopo.
 
 **Impacto no reasoning layer:** Reforça padrão de classificação NÃO APLICÁVEL para este tipo de IN BCB. Sem alteração necessária nas regras.
+
+---
+## Feedback: IN BCB 740 — 2026-06-01
+
+**Normativo:** Instrução Normativa BCB nº 740, de 29/05/2026
+**ID:** normativos_52919
+**Classificação automática:** ✅ APLICÁVEL — Criticidade 🟡 MÉDIO
+**Feedback da Giovanna (via Slack thread #agenda-normativa-ifoodpago, 01/06/2026 09:41):**
+> "Errado: A Instrução Normativa BCB nº 740 estabelece as orientações, as condições e os prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance."
+
+**Tipo de feedback:** Corretivo — a justificativa automática estava incorreta (mencionou "vigilância sanitária" erroneamente). A classificação APLICÁVEL estava **correta**, mas o resumo/justificativa estava errado.
+
+**Ajuste aplicado:**
+- Aplicabilidade: **mantida como ✅ APLICÁVEL** (a norma de fato se aplica ao iFood Pago como ITP/Open Finance)
+- Justificativa corrigida: A IN BCB nº 740 trata de testes em produção da jornada otimizada de ITP (Iniciador de Transação de Pagamento) no Open Finance — aplicável diretamente ao iFood Pago como ITP
+- Crítica ao conteúdo do resumo: a análise LLM gerou justificativa de "não aplicável por vigilância sanitária", completamente equivocada — indica problema no texto integral capturado
+- Regra geral criada: sim — INs BCB sobre jornada otimizada / ITP / Open Finance são APLICÁVEIS ao iFood Pago (ITP)
+- Área acionada: Compliance + Produtos Open Finance / ITP (mantidas)
+
+**Status:** Incorporado
+
+---
+## Feedback: Regra Geral — Filtro de Órgão Emitente — 2026-06-01
+
+**Data:** 2026-06-01 (Brasília)
+**Normativo:** Geral (todos os normativos)
+**Tipo de feedback:** Regra de sistema — filtro de órgão emitente
+
+[2026-06-01] REGRA: O sistema analisa EXCLUSIVAMENTE normativos de BCB/CMN. Qualquer texto integral capturado que pertença a outro órgão regulador (ANVISA, ANATEL, ANEEL, SUSEP, CVM, etc.) deve ser descartado e o normativo reprocessado sem texto integral, usando a ementa como fallback | ORIGEM: Feedback Giovanna Batistutti — 01/06/2026
+
+**Contexto:** O texto de uma Resolução-RE da ANVISA foi capturado erroneamente como texto integral da IN BCB 740 (publicados no mesmo DOU, na mesma data/seção). O fallback `if hits: return hits` em `captura_dou.py` retornava qualquer resultado sem validar o órgão emitente.
+
+**Correções implementadas:**
+- `captura_dou.py`: Removido fallback que retornava hits de outros órgãos; adicionada função `_texto_e_de_orgao_valido()`
+- `pipeline_bcb.py`: Adicionada função `_texto_pertence_ao_normativo_bcb()` com chamada em `fetch_full_text()`
+- `DECISION_LAYER.md`: PASSO 0 adicionado como regra absoluta de filtro por órgão emitente
+
+**Status:** Incorporado
+
+---
+## Feedback: Resolução BCB 571 — 2026-06-01
+
+**Normativo:** Resolução BCB nº 571, de 28/05/2026
+**ID:** normativos_52916
+**Classificação automática:** ⚠️ MONITORAR (confiança: MÉDIA)
+**Feedback da Giovanna (via chat Toqan, 01/06/2026):**
+
+> "Monitorar está correto, mas o resumo deveria ser mais completo, segue o resumo que elaborei:
+> 
+> A Res. BCB 571/2026 altera o art. 81 da Res. BCB 352/2023 que determina os níveis de provisão para perdas esperadas (ECL) associadas ao risco de crédito em cada tipo de carteira.
+> 
+> Vigência: 28/05/2026
+> 
+> A Res. 571 ajusta a Carteira 1 (C1) para provisão de perdas de crédito, incluindo: (a) créditos com alienação fiduciária de imóveis; (b) créditos com garantia fidejussória soberana (União, governos centrais estrangeiros, BCs) e multilaterais; (c) créditos garantidos por fundo garantidor com participação majoritária da União.
+> 
+> Impacto iFood Pago: Se não há carteira de crédito com essas garantias (imobiliária/soberana/fundos garantidores federais), o efeito contábil direto tende a ser nulo. Exposições típicas de antecipação/desconto de recebíveis (cessão/penhor/cessão fiduciária de recebíveis) permanecem enquadradas em C3 (inalterado).
+> 
+> IMPORTANTE: Estamos discutindo a participação no programa do BNDES (FGI) que conta com garantia pelo BNDES. Precisamos entender se o fundo garantidor possui participação majoritária da União (art. 81, I, c) ou qual a forma de garantia do programa.
+> 
+> Eventuais reflexos em CADOCs 4010/4016 (balancetes/balanços), 4111 (saldos diários) e DFs/notes (9010/9011), por variação de contas de provisão, ECL e resultado do período."
+
+**Tipo de feedback:** Complementação de resumo executivo
+
+**Ajuste aplicado:**
+- Classificação: **mantida como ⚠️ MONITORAR** (estava correta)
+- Resumo: substituído pelo resumo elaborado pela analista (muito mais preciso e completo)
+- Ponto de atenção: adicionada análise do programa BNDES/FGI com tabela de enquadramento por tipo de garantia
+- Áreas acionadas: Contabilidade/COSIF, Crédito/SCD, Compliance Regulatório
+- Pessoa a acionar: @gabriela.gusella para verificar Regulamento FGI
+
+**Impacto no reasoning layer:** Demonstra que análise automática acertou a classificação (MONITORAR), mas o resumo gerado estava incompleto porque o texto integral capturado estava errado (Portaria TRT em vez da Res. BCB). Reforça a importância do filtro de órgão emitente implementado hoje.
+
+**Status:** Incorporado
