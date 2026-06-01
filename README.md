@@ -1,28 +1,21 @@
-# normativos_md
-Todos os normativos capturados ja transformados em arquivo md 
+# 📋 Normativos BCB — Índice iFood Pago
 
-## 📚 Documentação de Raciocínio
+Repositório de normativos do Banco Central do Brasil capturados e classificados automaticamente para o iFood Pago.
 
-| Documento | Descrição |
-|---|---|
-| [REASONING_LAYER.md](./docs/REASONING_LAYER.md) | Critérios de aplicabilidade ao iFood Pago — árvore de decisão completa |
-| [REASONING_LAYER_POLITICAS.md](./docs/REASONING_LAYER_POLITICAS.md) | Síntese das políticas internas e seus gatilhos regulatórios |
-| [DECISION_MAP.md](./docs/DECISION_MAP.md) | Mapa de decisão do agente — fluxo step-a-step de cada análise |
+## Como usar
+- Navegue pela pasta `2026/06/` para encontrar os arquivos Markdown
+- Cada arquivo contém resumo executivo detalhado, avaliação de risco (5 pilares) e íntegra da norma
+- Classificação: ✅ APLICÁVEL | ⚠️ MONITORAR | ❌ NÃO APLICÁVEL
 
-| 2026-05-26 | [Resolução BCB nº 568](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568) | 🟡 MONITORAR | BAIXO |
-| 2026-05-26 | [Instrução Normativa BCB nº 735](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=735) | 🟡 MONITORAR | BAIXO |
+---
 
+## 🗂️ Índice de Normativos — 2026
 
-| 2026-05-28 | [Resolução CMN nº 5.307](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5307) | 🟡 MONITORAR | MÉDIO |
-
-
-| 2026-05-28 | [Resolução BCB nº 571](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=571) | 🟡 MONITORAR | BAIXO |
+| Arquivo | Aplicabilidade | Mês |
+|---------|---------------|-----|
 
 
-| 2026-05-28 | [Resolução Conjunta nº 18](https://in.gov.br/web/dou/-/resolucao-conjunta-n-18-de-28-de-novembro-de-2025-672006584) | 🟡 MONITORAR | MÉDIO |
+---
 
-
-| 2026-05-29 | [Resolução BCB nº 572](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=572) | 🟡 MONITORAR | BAIXO |
-
-
-| 2026-05-29 | [Instrução Normativa BCB nº 740](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740) | 🔴 APLICÁVEL | MÉDIO |
+*Última atualização: 2026-06-01 14:31 (Horário de Brasília)*
+*Atualizado automaticamente pelo Claw — Pipeline BCB v3.0*
