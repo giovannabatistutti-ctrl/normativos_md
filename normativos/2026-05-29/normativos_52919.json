@@ -4,13 +4,13 @@
     "titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
     "ementa": "Estabelece as orientações, as condições e os prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance.",
     "data_publicacao": "2026-05-29T18:32:54-03:00",
-    "data_vigencia": null,
+    "data_vigencia": "2026-06-22",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740",
     "tipo": "Instrução Normativa BCB",
     "numero": "740",
     "ano_norma": "2026",
     "texto_integral": "-A | - Extra A | Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária RESOLUÇÃO-RE nº 2.236, DE 29 DE MAIO DE 2026 A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve: Art. 1º Revogar a Resolução - RE nº 1.834, de 5 de maio de 2026, publicada no DOU nº 84, de 7 de maio de 2026, Seção 1, página 154, conforme anexo. Art. 2º Esta Resolução entra em vigor na data de sua publicação. RENATA DE LIMA SOARES ANEXO 1. Empresa: QUÍMICA AMPARO LTDA - CNPJ: 43.461.789/0001-90 Produto - (Lote): LAVA LOUÇAS YPÊ CLEAR CARE(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS COM ENZIMAS ATIVAS YPÊ(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS YPÊ(Todos os lotes que terminam com o número 1 (um).);LAVA LOUÇAS YPÊ CLEAR CARE(25351.732782/2017-47);LAVA LOUÇAS YPÊ TOQUE SUAVE(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS CONCENTRADO YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS YPÊ CLEAR(Todos os lotes que terminam com o número 1 (um).);LAVA-LOUÇAS YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LIQUIDO TIXAN YPÊ COMBATE MAU ODOR(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LIQUIDO TIXAN YPÊ CUIDA DAS ROUPAS(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ ANTIBAC(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ COCO E BAUNILHA(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO TIXAN YPÊ GREEN(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ EXPRESS(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ POWER ACT(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS LÍQUIDO YPÊ PREMIUM(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN MACIEZ(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN PRIMAVERA(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE BAK YPÊ(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE DE USO GERAL ATOL(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE PERFUMADO ATOL(Todos os lotes que terminam com o número 1 (um).);DESINFETANTE PINHO YPE(Todos os lotes que terminam com o número 1 (um).);LAVA ROUPAS TIXAN POWER ACT(Todos os lotes que terminam com o número 1 (um). ); Tipo de Produto: Saneantes Expediente nº: 0531008/26-3 Assunto: 70358 - Revogação de Ações de Fiscalização em Vigilância Sanitária Ações de fiscalização revogadas: Recolhimento Suspensão - Comercialização, Distribuição, Fabricação, Uso Motivação: Considerando a inspeção conjunta, realizada pela Anvisa, Estado e Município, nos dias 28 e 29/05/2026, conforme Ficha de Procedimento nº 01.000.705/26, revoga-se a Resolução-RE n.º 1834, de 5 de maio de 2025, publicada em 7/05/2026 no D.O.U. n.º 84, Seção 1, pág. 154.",
-    "texto_fonte": "dou_pdf",
+    "texto_fonte": "corrigido_manualmente",
     "url_fonte": "https://in.gov.br/web/dou/-/resolucao-re-n-2.236-de-29-de-maio-de-2026-709480606",
     "capturado_em": "2026-05-29T21:01:34.492546-03:00"
   },
@@ -18,16 +18,19 @@
     "normativo_id": "normativos_52919",
     "normativo_titulo": "BC - Instrução Normativa BCB N° 740 de 29/05/2026",
     "classificacao": "APLICÁVEL",
-    "confianca": "MÉDIA",
-    "justificativa": "A IN BCB nº 740 aplica-se diretamente ao iFood Pago pois revogar a resolução - re nº 1. Menciona explicitamente: open finance. Temas relevantes: pagamento, open finance.",
-    "passo1_tipo": "Instrução Normativa BCB nº 740 (2026)",
+    "confianca": "ALTA",
+    "justificativa": "A IN BCB nº 740/2026 é aplicável ao iFood Pago como ITP (Iniciador de Transação de Pagamento) e Detentor de Conta no Open Finance. A norma estabelece testes em produção da jornada otimizada. O iFood Pago pode participar opcionalmente como ITP (Art. 2). A oferta obrigatória (Art. 3) aplica-se apenas a quem acumula os papéis de Transmissor de Dados E Detentor de Conta simultaneamente — o iFood Pago é apenas Detentor de Conta, portanto não há obrigatoriedade de oferta da Jornada Otimizada neste momento.",
+    "passo1_tipo": "Instrução Normativa BCB nº 740 (2026) — Open Finance / Jornada Otimizada",
     "passo2_atinge_ifood": true,
     "passo2_razoes": [
-      "open finance"
+      "Open Finance",
+      "ITP (Iniciador de Transação de Pagamento)",
+      "Detentor de Conta"
     ],
     "passo3_temas": [
-      "[APLICÁVEL] pagamento",
-      "[APLICÁVEL] open finance"
+      "[APLICÁVEL] Open Finance",
+      "[APLICÁVEL] ITP",
+      "[APLICÁVEL] Detentor de Conta"
     ],
     "passo4_classificacao": "APLICÁVEL",
     "passo5_politicas": [
@@ -56,10 +59,10 @@
         "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-017"
       }
     ],
-    "data_vigencia": null,
+    "data_vigencia": "2026-06-22",
     "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
-    "feedback_aplicado": false,
-    "feedback_notas": ""
+    "feedback_aplicado": true,
+    "feedback_notas": "Corrigido manualmente por Giovanna Batistutti em 2026-06-01. Texto integral original capturado incorretamente (Resolução ANVISA). Análise baseada na leitura direta da ementa e análise de Giovanna."
   },
   "avaliacao": {
     "normativo_id": "normativos_52919",
@@ -67,40 +70,42 @@
     "classificacao": "APLICÁVEL",
     "pilar_operacional": {
       "pilar": "Impacto Operacional",
-      "score": "ALTO",
-      "score_numerico": 3,
-      "justificativa": "Impacto em processos operacionais: procedimento.",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Participação opcional; sem mudança de processo obrigatória no momento",
       "elementos_identificados": [
-        "procedimento"
+        "participação opcional como ITP"
       ]
     },
     "pilar_regulatorio": {
       "pilar": "Impacto Regulatório",
-      "score": "ALTO",
-      "score_numerico": 3,
-      "justificativa": "Obrigações regulatórias significativas: revogação.",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Nova obrigação para Transmissores de Dados (iFood Pago não é); monitorar evolução do papel de Transmissor",
       "elementos_identificados": [
-        "revogação"
+        "jornada otimizada",
+        "revogação IN 725/2026",
+        "Open Finance"
       ]
     },
     "pilar_financeiro": {
       "pilar": "Impacto Financeiro",
       "score": "BAIXO",
       "score_numerico": 1,
-      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "justificativa": "Sem custo de adequação obrigatório no momento",
       "elementos_identificados": []
     },
     "pilar_clientes": {
       "pilar": "Impacto em Clientes",
       "score": "BAIXO",
       "score_numerico": 1,
-      "justificativa": "Impacto em clientes não identificado.",
+      "justificativa": "Sem impacto direto em clientes no momento",
       "elementos_identificados": []
     },
-    "score_consolidado": "MÉDIO",
-    "score_numerico": 2.111111111111111,
-    "justificativa_consolidada": "Pilares ALTOS: Impacto Operacional, Impacto Regulatório. Score médio ponderado: 2.11/4.0 (divisor 4.5)",
-    "prazo_adequacao": null,
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.25,
+    "justificativa_consolidada": "Score consolidado BAIXO. Pilares: Operacional BAIXO (1), Regulatório MÉDIO (2), Financeiro BAIXO (1), Clientes BAIXO (1). Score médio: 1.25/4.0. Criticidade baixa pois iFood Pago não é Transmissor de Dados, eliminando a obrigação do Art. 3.",
+    "prazo_adequacao": "2026-06-22",
     "urgente": false
   },
   "resumo": {
@@ -109,14 +114,14 @@
     "tipo": "Instrução Normativa BCB",
     "numero": "740",
     "classificacao": "APLICÁVEL",
-    "score_criticidade": "MÉDIO",
-    "o_que_determina": "-A | - Extra A | Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária RESOLUÇÃO-RE nº 2.236, DE 29 DE MAIO DE 2026 A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve: Art. 1º Revogar a Resolução - RE nº 1.",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Estabelece orientações, condições e prazos para testes em produção da jornada otimizada (iniciação de pagamento com compartilhamento de dados) no Open Finance. Revoga a IN BCB nº 725/2026. Art. 2: ITP pode participar opcionalmente dos testes. Art. 3: Oferta obrigatória apenas para instituições que acumulam os papéis de Transmissor de Dados E Detentor de Conta simultaneamente. Vigência: 22/04/2026 (testes limitados) e 22/06/2026 (oferta pública obrigatória para quem se enquadra).",
     "para_quem_se_aplica": "**Entidades:** iFood Pago (Open Finance / ITP) | **Produtos:** Open Finance / ITP",
-    "prazo_adequacao": "Não identificado — verificar norma",
+    "prazo_adequacao": "2026-06-22",
     "acoes_requeridas": [
-      "Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago",
-      "Mapear obrigações regulatórias específicas e definir plano de adequação com prazos",
-      "Avaliar impacto em sistemas e processos operacionais; envolver TI e Produtos"
+      "Avaliar participação opcional nos testes como ITP (Art. 2) até 22/06/2026",
+      "Monitorar eventual assunção do papel de Transmissor de Dados (gatilho para obrigação do Art. 3)",
+      "Mapear roadmap Open Finance para Transmissor de Dados e avaliar impacto futuro da IN 740"
     ],
     "politicas_revisar": [
       "iFP-POL-026 — Política de Cadastro (KYC/CDD) (Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).)",
@@ -200,6 +205,10 @@
   "metadata": {
     "pipeline": "normativos-bcb",
     "versao": "2.0",
-    "data_analise": "2026-05-29T21:01:51.577438-03:00"
+    "data_analise": "2026-05-29T21:01:51.577438-03:00",
+    "corrigido_em": "2026-06-01",
+    "corrigido_por": "Giovanna Batistutti — Compliance iFood Pago",
+    "motivo_correcao": "Texto integral original capturado incorretamente pelo pipeline (Resolução ANVISA sobre saneantes em vez da IN BCB 740). Análise refeita com base na ementa e análise manual.",
+    "texto_integral_fonte": "corrigido_manualmente"
   }
 }
