@@ -1,0 +1,239 @@
+{
+  "normativo": {
+    "id": "normativos_52920",
+    "titulo": "BC - Instrução Normativa BCB N° 741 de 03/06/2026",
+    "ementa": "Altera as Instruções Normativas BCB ns. 428, 429 e 433, todas de 1º de dezembro de 2023, que definem rubricas contábeis do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "data_publicacao": "2026-06-03T16:04:26-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "741",
+    "ano_norma": "2026",
+    "texto_integral": "Banco Central do Brasil/Área de Política Monetária/Departamento de Operações do Mercado Aberto COMUNICADO Nº 45.330, DE 1º DE JUNHO DE 2026 Divulga condições para a realização de operações compromissadas com instituições financeiras participantes do módulo Oferta Pública (Ofpub). O Banco Central do Brasil, com base no disposto na Resolução BCB nº 75, de 23 de fevereiro de 2021, torna público que, das 12:00 às 12:30 horas do dia 2 de junho de 2026, acolherá propostas das instituições financeiras participantes do módulo Ofpub para a realização de operações de venda de títulos públicos com compromisso de revenda assumido pela instituição financeira compradora, admitida a livre movimentação dos títulos, com as seguintes características: I - títulos: a) Letras do Tesouro Nacional (LTN): vencimentos em 1º/10/2026, 1º/4/2027, 1º/7/2027, 1º/10/2027, 1º/1/2028, 1º/4/2028, 1º/7/2028, 1º/1/2029, 1º/7/2029, 1º/1/2030 e 1º/1/2032; b) Notas do Tesouro Nacional, Série B (NTN-B): vencimentos em 15/8/2028, 15/5/2029, 15/8/2030, 15/5/2031, 15/8/2032, 15/5/2033, 15/5/2035, 15/5/2037, 15/8/2040, 15/5/2045, 15/8/2050, 15/5/2055 e 15/8/2060; c) Notas do Tesouro Nacional, Série F (NTN-F): vencimentos em 1º/1/2027, 1º/1/2029, 1º/1/2031, 1º/1/2033, 1º/1/2035 e 1º/1/2037; e d) Letras Financeiras do Tesouro (LFT): vencimentos em 1º/3/2027, 1º/9/2027, 1º/3/2028, 1º/9/2028, 1º/3/2029, 1º/9/2029, 1º/3/2030, 1º/6/2030, 1º/9/2030, 1º/12/2030, 1º/3/2031, 1º/6/2031, 1º/9/2031, 1º/12/2031, 1º/3/2032 e 1º/6/2032. II - valor financeiro máximo desta oferta: R$ 5.000.000.000,00 (cinco bilhões de reais), observado que, de um mesmo título/vencimento, cada instituição financeira poderá adquirir, no máximo, 100% do valor de sua(s) proposta(s) aceita(s); III - preços unitários de venda: os informados pelo Departamento de Operações do Mercado Aberto (Demab), às 11:30 horas de 2/6/2026, na página do Sistema Especial de Liquidação e de Custódia (Selic) na internet (www.rtm.selic.gov.br); IV - divulgação do resultado: 2/6/2026, a partir das 12:30 horas; V - data de liquidação da venda: 3/6/2026; e VI - data de liquidação da revenda: 2/9/2026. 2. Na formulação das propostas, limitadas a 3 (três) por instituição, deverão ser informados o percentual, com 4 (quatro) casas decimais, a ser aplicado sobre o fator diário da taxa Selic deduzido de uma unidade e o valor financeiro, em milhares de reais. 3. As propostas deverão ter curso na aba Ofpub/Ofdealer do Selic, opção \"Lançamento\" do submenu \"Operações Compromissadas\". 4. O resultado será apurado pelo critério de percentual único, acatando-se todas as propostas com percentual igual ou inferior ao percentual máximo aceito pelo Banco Central do Brasil, o qual será aplicado a todas as propostas vencedoras. 5. A instituição com proposta aceita deverá informar ao Demab, até as 16:00 horas de 2/6/2026, o vencimento e o valor financeiro de cada um dos títulos objeto de sua compra, utilizando o módulo \"Lastro\" do Selic. 6. O preço unitário da revenda será calculado com a seguinte fórmula: em que: I - PUrevenda corresponde ao preço unitário de revenda do título ao Banco Central do Brasil na data do compromisso, arredondado na oitava casa decimal; II - PUvenda corresponde ao preço unitário de venda do título pelo Banco Central do Brasil, conforme definido no primeiro parágrafo, inciso III; III - f corresponde ao fator diário da taxa Selic, divulgado pelo Banco Central do Brasil, relativo ao k-ésimo dia útil; IV - S corresponde ao percentual definido no quarto parágrafo; V - n corresponde ao número de dias úteis compreendidos entre a data de liquidação da venda, inclusive, e a data de liquidação da revenda, exclusive; VI - CJ1 corresponde ao primeiro cupom de juros unitário pago pelo título durante a vigência do compromisso; VII - m corresponde ao número de dias úteis compreendidos entre a data de pagamento do cupom de juros, inclusive, e a data de liquidação da revenda, exclusive; VIII - CJ2 corresponde ao segundo cupom de juros unitário pago pelo título durante a vigência do compromisso; IX - q corresponde ao número de dias úteis compreendidos entre a data de pagamento do segundo cupom de juros, inclusive, e a data de liquidação da revenda, exclusive; e X - P corresponde ao produtório. 7. Não havendo pagamento de cupom de juros durante a vigência do compromisso, os valores \"CJ1\" e \"CJ2\" contidos na fórmula definida no sexto parágrafo serão iguais a zero. 8. As operações de que tratam este Comunicado devem ser registradas no Selic sob o código 1047. ANDRÉ DE OLIVEIRA AMANTE Chefe",
+    "texto_fonte": "dou_pdf",
+    "url_fonte": "https://in.gov.br/web/dou/-/comunicado-n-45.330-de-1-de-junho-de-2026-710445646",
+    "capturado_em": "2026-06-03T21:01:37.582718-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52920",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 741 de 03/06/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 741 não é diretamente aplicável mas deve ser monitorada pois altera as instruções normativas bcb ns. 428, 429 e 433, todas de 1º de dezembro de 2023, que definem rubricas contábeis do elenco de contas do padrão contábil das instituições reguladas pelo banco cen Temas a acompanhar: banco, financeira.",
+    "passo1_tipo": "Instrução Normativa BCB nº 741 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] pagamento",
+      "[APLICÁVEL] banco central",
+      "[APLICÁVEL] cosif",
+      "[MONITORAR] banco",
+      "[MONITORAR] financeira"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-013",
+        "nome": "Política de Prevenção e Combate a Fraudes",
+        "area_responsavel": "Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-013"
+      },
+      {
+        "codigo": "iFP-PRD-01",
+        "nome": "Procedimento de Gerenciamento de Riscos de Chargeback",
+        "area_responsavel": "Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-01"
+      },
+      {
+        "codigo": "iFP-POL-017",
+        "nome": "Política de Retenção e Governança de Dados",
+        "area_responsavel": "DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-017"
+      },
+      {
+        "codigo": "iFP-POL-025",
+        "nome": "Política de Gestão de Instrumentos Financeiros",
+        "area_responsavel": "ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-025"
+      },
+      {
+        "codigo": "iFP-MdN-01",
+        "nome": "Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR)",
+        "area_responsavel": "Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-01"
+      },
+      {
+        "codigo": "iFP-MdN-02",
+        "nome": "Modelo de Negócios: Carteira de Crédito classificada a VJR",
+        "area_responsavel": "Tesouraria/Crédito; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-02"
+      },
+      {
+        "codigo": "iFP-MdN-03",
+        "nome": "Modelo de Negócios: TVMs classificados a VJORA",
+        "area_responsavel": "Tesouraria/ALCO; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-03"
+      },
+      {
+        "codigo": "iFP-MdN-04",
+        "nome": "Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA)",
+        "area_responsavel": "Tesouraria/ALCO; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-04"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52920",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 741 de 03/06/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "ALTO",
+      "score_numerico": 3,
+      "justificativa": "Obrigações regulatórias significativas: liquidação, dever, deve.",
+      "elementos_identificados": [
+        "liquidação",
+        "dever",
+        "deve"
+      ]
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "ALTO",
+      "score_numerico": 3,
+      "justificativa": "Impacto financeiro relevante: taxa, juros.",
+      "elementos_identificados": [
+        "taxa",
+        "juros"
+      ]
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto mínimo em clientes (não especificado).",
+      "elementos_identificados": [
+        "comunicado"
+      ]
+    },
+    "score_consolidado": "MÉDIO",
+    "score_numerico": 2.111111111111111,
+    "justificativa_consolidada": "Pilares ALTOS: Impacto Regulatório, Impacto Financeiro. Score médio ponderado: 2.11/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52920",
+    "titulo": "BC - Instrução Normativa BCB N° 741 de 03/06/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "741",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "MÉDIO",
+    "o_que_determina": "Banco Central do Brasil/Área de Política Monetária/Departamento de Operações do Mercado Aberto COMUNICADO Nº 45.330, DE 1º DE JUNHO DE 2026 Divulga condições para a realização de operações compromissadas com instituições financeiras participantes do módulo Oferta Pública (Ofpub).",
+    "para_quem_se_aplica": "**Produtos:** POS (Máquina de Cartão)",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Mapear obrigações regulatórias específicas e definir plano de adequação com prazos",
+      "Estimar custo de adequação e potenciais penalidades; informar área Financeira",
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)",
+      "iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)",
+      "iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)",
+      "iFP-POL-025 — Política de Gestão de Instrumentos Financeiros (ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).)",
+      "iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) (Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).)",
+      "iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)",
+      "iFP-MdN-03 — Modelo de Negócios: TVMs classificados a VJORA (Tesouraria/ALCO; Contabilidade; Compliance.)",
+      "iFP-MdN-04 — Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA) (Tesouraria/ALCO; Contabilidade; Compliance.)"
+    ],
+    "areas_responsaveis": [
+      "Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo",
+      "Contabilidade / Financeiro / Contabilidade Regulatória — Revisar adequação COSIF",
+      "Financeiro / Tesouraria / Financeiro — Estimar custo de adequação e provisionar para potenciais penalidades",
+      "Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo",
+      "ALCO / Tesouraria (gestão) / Responsável por iFP-POL-025 — Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo",
+      "Tesouraria/ALCO (gestão) / Responsável por iFP-MdN-01 — Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741",
+    "data_publicacao": "2026-06-03T16:04:26-03:00",
+    "data_analise": "2026-06-03 21:01",
+    "markdown": "# BC - Instrução Normativa BCB N° 741 de 03/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-03 21:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 741 |\n| **Data de Publicação** | 2026-06-03T16:04:26-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟡 **MÉDIO** |\n\n---\n\n## O Que a Norma Determina\n\nBanco Central do Brasil/Área de Política Monetária/Departamento de Operações do Mercado Aberto COMUNICADO Nº 45.330, DE 1º DE JUNHO DE 2026 Divulga condições para a realização de operações compromissadas com instituições financeiras participantes do módulo Oferta Pública (Ofpub).\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** POS (Máquina de Cartão)\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Mapear obrigações regulatórias específicas e definir plano de adequação com prazos\n- Estimar custo de adequação e potenciais penalidades; informar área Financeira\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n- iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)\n- iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)\n- iFP-POL-025 — Política de Gestão de Instrumentos Financeiros (ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).)\n- iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) (Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).)\n- iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)\n- iFP-MdN-03 — Modelo de Negócios: TVMs classificados a VJORA (Tesouraria/ALCO; Contabilidade; Compliance.)\n- iFP-MdN-04 — Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA) (Tesouraria/ALCO; Contabilidade; Compliance.)\n\n---\n\n## Áreas Responsáveis\n\n- Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo\n- Contabilidade / Financeiro / Contabilidade Regulatória — Revisar adequação COSIF\n- Financeiro / Tesouraria / Financeiro — Estimar custo de adequação e provisionar para potenciais penalidades\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n- Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo\n- DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo\n- ALCO / Tesouraria (gestão) / Responsável por iFP-POL-025 — Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo\n- Tesouraria/ALCO (gestão) / Responsável por iFP-MdN-01 — Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Produtos",
+      "time": "Arranjos de Pagamento",
+      "acao": "Verificar conformidade do arranjo",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Contabilidade / Financeiro",
+      "time": "Contabilidade Regulatória",
+      "acao": "Revisar adequação COSIF",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Financeiro / Tesouraria",
+      "time": "Financeiro",
+      "acao": "Estimar custo de adequação e provisionar para potenciais penalidades",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Fraudes/Risk (coordenação)",
+      "time": "Responsável por iFP-POL-013",
+      "acao": "Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Risco/Fraudes (avaliação)",
+      "time": "Responsável por iFP-PRD-01",
+      "acao": "Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "DPO (coordenação e conformidade LGPD)",
+      "time": "Responsável por iFP-POL-017",
+      "acao": "Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "ALCO / Tesouraria (gestão)",
+      "time": "Responsável por iFP-POL-025",
+      "acao": "Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Tesouraria/ALCO (gestão)",
+      "time": "Responsável por iFP-MdN-01",
+      "acao": "Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-03T21:01:47.819036-03:00"
+  }
+}
