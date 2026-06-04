@@ -19,3 +19,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 *Última atualização: 2026-06-01 14:31 (Horário de Brasília)*
 *Atualizado automaticamente pelo Claw — Pipeline BCB v3.0*
+
+
+| 2026-06-03 | [Instrução Normativa BCB nº 741](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741) | 🟡 MONITORAR | MÉDIO |
