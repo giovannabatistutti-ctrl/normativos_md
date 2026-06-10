@@ -1,6 +1,6 @@
 # BC - Instrução Normativa BCB N° 742 de 09/06/2026
 
-> **Análise iFood Pago | Compliance** — 10/06/2026 16:01  
+> **Análise iFood Pago | Compliance** — 10/06/2026 16:03  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -47,27 +47,27 @@ Divulga a versão 8.3 do Manual Operacional do Diretório de Identificadores de 
 Foi publicada a Instrução Normativa BCB nº 742, de 09/06/2026, que divulga a versão 8.3 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), parte integrante do Regulamento do Pix.
 
 **2. Vigência**
-Imediata, conforme publicação.
+Imediata, a partir de 09/06/2026.
 
 **3. Resumo**
-*(i)* A norma atualiza o Manual Operacional do DICT, que é o banco de dados central do Pix para mapeamento de chaves Pix às contas transacionais.
-*(ii)* Para o iFood Pago, como participante do Pix, a atualização pode impactar diretamente a operação de produtos que utilizam o DICT, como transferências Pix, conciliação de recebíveis, e serviços de antecipação vinculados a recebíveis Pix.
-*(iii)* Não há menção explícita a alterações em CADOCs ou reportes, mas mudanças no manual podem implicar ajustes operacionais e de conformidade.
-*(iv)* Ponto de atenção: revisar as mudanças na versão 8.3 do manual para identificar impactos em APIs, segurança, KYC/PLD e conciliação.
+*(i)* O DICT é o diretório central do Banco Central que relaciona chaves Pix às contas receptoras, sendo essencial para lookup/roteamento de pagamentos Pix, consulta de titulares e resolução de portabilidade de chave.
+*(ii)* A versão 8.3 do Manual Operacional pode trazer alterações nos procedimentos operacionais, formatos de mensagens, SLAs ou requisitos de segurança relacionados ao DICT.
+*(iii)* Impacto direto nas operações do iFood Pago relacionadas ao Pix, especialmente no registro e gerenciamento de chaves Pix, portabilidade, e atendimento a SLAs e requisitos de segurança.
+*(iv)* Ponto de atenção: verificar as mudanças específicas introduzidas pela versão 8.3 e adequar os sistemas e processos do iFood Pago para conformidade.
 
-**4. Íntegra:** 📄 [Link para o DOU ou site do BCB]
+**4. Íntegra:** 📄 [link DOU ou BCB]
 
 **5. Próximos Passos**
-Peço por gentileza que as áreas de Operações, Tecnologia e Compliance revisem a versão 8.3 do Manual Operacional do DICT para identificar impactos e ajustes necessários até 30/06/2026. Caso necessário, posso agendar um GT para alinhamento.
+Peço por gentileza que as áreas de Operações e Tecnologia avaliem as alterações da versão 8.3 do Manual Operacional do DICT e implementem as adequações necessárias até 30/06/2026. Caso necessário, posso agendar um GT para alinhamento.
 
 🎯 Avaliação de Risco
 | Pilar | Nível | Motivo |
 |---|---|---|
-| ⚙️ Operacional | 3 | Alterações no DICT podem exigir ajustes em APIs, sistemas de conciliação e segurança. |
-| ⚖️ Regulatório | 3 | Cumprimento obrigatório do Regulamento do Pix e do manual atualizado. |
-| 💰 Financeiro | 2 | Potencial impacto em fluxos de recebíveis e antecipação vinculados ao Pix. |
-| 👥 Clientes | 2 | Possíveis ajustes em funcionalidades de chave Pix podem afetar a experiência do cliente. |
-Score: 10 | Criticidade: 🟠 ALTO |
+| ⚙️ Operacional | 3 | Alterações no DICT podem exigir ajustes em sistemas e processos operacionais. |
+| ⚖️ Regulatório | 4 | Conformidade com o DICT é obrigatória para participantes do Pix. |
+| 💰 Financeiro | 2 | Risco financeiro moderado em caso de não conformidade, como multas ou sanções. |
+| 👥 Clientes | 3 | Impacto na experiência do cliente em caso de falhas no registro ou portabilidade de chaves. |
+Score: 12 | Criticidade: 🟠 ALTO |
 
 ---
 
@@ -77,4 +77,4 @@ Score: 10 | Criticidade: 🟠 ALTO |
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:01*
+*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:03*
