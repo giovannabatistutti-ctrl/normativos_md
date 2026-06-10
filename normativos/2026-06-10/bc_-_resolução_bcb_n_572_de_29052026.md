@@ -1,6 +1,6 @@
 # BC - Resolução BCB N° 572 de 29/05/2026
 
-> **Análise iFood Pago | Compliance** — 10/06/2026 16:03  
+> **Análise iFood Pago | Compliance** — 10/06/2026 16:04  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -43,9 +43,9 @@ Altera a Resolução BCB nº 102, de 7 de junho de 2021, para atualizar os proce
 
 🟢 NÃO APLICÁVEL — Resolução BCB nº 572/2026
 
-**Por que não se aplica:** A Resolução BCB nº 572/2026 altera procedimentos relacionados à apuração do montante a ser alocado em títulos públicos federais (MATPF), inclui instrumentos financeiros elegíveis a Capital Complementar e Nível II na definição de Patrimônio Líquido Ajustado (PLA) e disciplina a elaboração e remessa de informações sobre créditos não cobertos pela garantia ordinária do Fundo Garantidor de Créditos (FGC) pelos depositários centrais de ativos financeiros. 
+**Por que não se aplica:** A Resolução BCB nº 572/2026 altera a Resolução BCB nº 102/2021 para atualizar procedimentos relacionados à apuração do montante a ser alocado em títulos públicos federais (MATPF), incluir instrumentos financeiros elegíveis a Capital Complementar e Nível II na definição de Patrimônio Líquido Ajustado (PLA) e disciplinar informações sobre créditos não cobertos pela garantia ordinária do Fundo Garantidor de Créditos (FGC) pelos depositários centrais de ativos financeiros.
 
-O iFood Pago, embora classificado como conglomerado prudencial Tipo 3, não realiza atividades relacionadas à alocação de títulos públicos federais, não utiliza instrumentos financeiros de Capital Complementar ou Nível II, não possui obrigações relacionadas ao FGC e não atua como depositário central de ativos financeiros. Portanto, as disposições da norma não impactam suas operações ou produtos.
+O iFood Pago, conforme o contexto regulatório, não está sujeito a normas sobre alocação de títulos públicos federais, não utiliza instrumentos financeiros elegíveis a Capital Complementar e Nível II, não possui obrigações relacionadas ao FGC e não atua como depositário central de ativos financeiros. Portanto, as alterações introduzidas por esta norma não impactam as operações ou obrigações do iFood Pago.
 
 _👍 correto ou 👎 incorreto?_
 
@@ -59,4 +59,4 @@ _👍 correto ou 👎 incorreto?_
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:03*
+*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:04*
