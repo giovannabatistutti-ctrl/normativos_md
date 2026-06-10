@@ -12,7 +12,7 @@
     "texto_integral": "",
     "texto_fonte": "ementa",
     "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742",
-    "capturado_em": "2026-06-10T16:01:32.897336-03:00"
+    "capturado_em": "2026-06-10T16:03:27.620034-03:00"
   },
   "classificacao": {
     "normativo_id": "normativos_52921",
@@ -102,8 +102,8 @@
     ],
     "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742",
     "data_publicacao": "2026-06-10T13:50:45-03:00",
-    "data_analise": "2026-06-10 16:01",
-    "markdown": "# BC - Instrução Normativa BCB N° 742 de 09/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-10 16:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 742 |\n| **Data de Publicação** | 2026-06-10T13:50:45-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nDivulga a versão 8.3 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), que compõe o Regulamento do Pix.\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** Pix\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n\n---\n\n## Áreas Responsáveis\n\n- Produtos / Pix — Avaliar impacto no produto Pix e adequações necessárias\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+    "data_analise": "2026-06-10 16:03",
+    "markdown": "# BC - Instrução Normativa BCB N° 742 de 09/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-10 16:03\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 742 |\n| **Data de Publicação** | 2026-06-10T13:50:45-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nDivulga a versão 8.3 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), que compõe o Regulamento do Pix.\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** Pix\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n\n---\n\n## Áreas Responsáveis\n\n- Produtos / Pix — Avaliar impacto no produto Pix e adequações necessárias\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
   },
   "responsaveis": [
     {
@@ -124,6 +124,6 @@
   "metadata": {
     "pipeline": "normativos-bcb",
     "versao": "2.0",
-    "data_analise": "2026-06-10T16:01:52.866349-03:00"
+    "data_analise": "2026-06-10T16:03:47.593243-03:00"
   }
 }
