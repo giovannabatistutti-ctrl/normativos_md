@@ -1,6 +1,6 @@
 # BC - Instrução Normativa BCB N° 741 de 03/06/2026
 
-> **Análise iFood Pago | Compliance** — 10/06/2026 16:02  
+> **Análise iFood Pago | Compliance** — 10/06/2026 16:04  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -43,7 +43,8 @@ Altera as Instruções Normativas BCB ns. 428, 429 e 433, todas de 1º de dezemb
 
 🟢 NÃO APLICÁVEL — Instrução Normativa BCB nº 741/2026
 
-**Por que não se aplica:** A Instrução Normativa BCB nº 741/2026 altera rubricas contábeis do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif). O iFood Pago, enquanto Instituição de Pagamento (IP), não está diretamente sujeito ao Cosif, exceto em casos específicos de reclassificação regulatória ou exigências adicionais do Banco Central. No entanto, o conglomerado do iFood Pago inclui uma Sociedade de Crédito Direto (SCD), que já segue o Cosif. Como a norma não introduz novas obrigações ou mudanças específicas para IPs ou SCDs no contexto do iFood Pago, ela não impacta diretamente as operações ou produtos da instituição.
+**Por que não se aplica:**  
+A Instrução Normativa BCB nº 741/2026 altera as Instruções Normativas BCB nº 428, 429 e 433, que definem rubricas contábeis do COSIF (Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil). O COSIF é aplicável às instituições financeiras e às Sociedades de Crédito Direto (SCD), mas não se aplica diretamente às Instituições de Pagamento (IP), como o iFood Pago IP. Embora o iFood Pago possua uma SCD no conglomerado, não há evidências de que as alterações específicas introduzidas por esta norma impactem diretamente as operações ou produtos da SCD. Além disso, a IP segue regulamentação contábil específica para IPs, distinta do COSIF.
 
 _👍 correto ou 👎 incorreto?_
 
@@ -59,4 +60,4 @@ _👍 correto ou 👎 incorreto?_
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:02*
+*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:04*
