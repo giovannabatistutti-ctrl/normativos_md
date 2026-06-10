@@ -1,6 +1,6 @@
 # BC - Instrução Normativa BCB N° 740 de 29/05/2026
 
-> **Análise iFood Pago | Compliance** — 10/06/2026 16:02  
+> **Análise iFood Pago | Compliance** — 10/06/2026 16:04  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -58,29 +58,29 @@ Estabelece as orientações, as condições e os prazos para a realização de t
 🔴 APLICÁVEL — Instrução Normativa BCB nº 740/2026
 
 **1. Identificação**
-Foi publicada a Instrução Normativa BCB nº 740, de 29/05/2026, que estabelece as orientações, condições e prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance.
+Foi publicada a Instrução Normativa BCB nº 740, de 29 de maio de 2026, que estabelece as orientações, condições e prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance.
 
 **2. Vigência**
 A vigência inicia-se em 01/07/2026, com prazos específicos para a realização dos testes conforme cronograma a ser detalhado.
 
 **3. Resumo**
-*(i)* O normativo impacta diretamente o iFood Pago, pois a instituição participa do Open Finance como Iniciador de Transação de Pagamento (ITP) e detentor de conta.
-*(ii)* Obriga o iFood Pago a realizar testes em produção para o serviço otimizado de iniciação de transação de pagamento, incluindo o compartilhamento de dados, conforme orientações do BCB.
-*(iii)* Não há impacto direto em CADOCs, mas pode haver necessidade de ajustes em reportes operacionais e de conformidade.
-*(iv)* Ponto de atenção: o cumprimento dos prazos e a adequação técnica às condições estabelecidas para os testes.
+*(i)* O normativo impacta diretamente o iFood Pago, pois a instituição atua como Iniciador de Transação de Pagamento (ITP) e Detentor de Conta no Open Finance.
+*(ii)* Obriga a realização de testes em produção para o serviço otimizado de iniciação de transação de pagamento, incluindo o compartilhamento de dados, seguindo as condições e prazos estabelecidos.
+*(iii)* Não há impacto direto em CADOCs ou reportes, mas pode haver necessidade de ajustes nos sistemas de monitoramento e conformidade.
+*(iv)* Ponto de atenção: necessidade de adequação técnica e operacional para atender aos requisitos de testes em produção no prazo estipulado.
 
-**4. Íntegra:** 📄 [link DOU ou BCB]
+**4. Íntegra:** 📄 [Link para o DOU ou site do BCB]
 
 **5. Próximos Passos**
-Peço por gentileza que as áreas de Tecnologia, Produtos e Compliance avaliem os requisitos técnicos e regulatórios para a realização dos testes em produção, garantindo a conformidade com as orientações do BCB. Sugiro agendar um GT até 15/06/2026 para alinhar as ações necessárias.
+Peço por gentileza que as áreas de Tecnologia, Produtos e Compliance avaliem os requisitos técnicos e operacionais para a realização dos testes em produção, conforme as condições e prazos estabelecidos, até 15/06/2026. Caso necessário, posso agendar um GT para alinhamento.
 
 🎯 Avaliação de Risco
 | Pilar | Nível | Motivo |
 |---|---|---|
-| ⚙️ Operacional | 3 | Necessidade de adequação técnica para testes em produção e integração com APIs do Open Finance. |
-| ⚖️ Regulatório | 4 | Obrigação normativa vinculada ao Open Finance, com impacto direto na conformidade regulatória. |
-| 💰 Financeiro | 2 | Custos moderados para implementação e testes, mas sem impacto significativo no modelo de negócios. |
-| 👥 Clientes | 3 | Potencial impacto na experiência do cliente durante os testes, exigindo comunicação clara e gestão de consentimento. |
+| ⚙️ Operacional | 3 | Exige adequação técnica e operacional para testes em produção no Open Finance. |
+| ⚖️ Regulatório | 4 | Obrigação normativa vinculada ao Open Finance, com impacto direto no iFood Pago como ITP e Detentor de Conta. |
+| 💰 Financeiro | 2 | Custos moderados para adequação técnica e operacional. |
+| 👥 Clientes | 3 | Impacto potencial na experiência do cliente durante os testes em produção. |
 Score: 12 | Criticidade: 🟠 ALTO |
 
 ---
@@ -94,4 +94,4 @@ Score: 12 | Criticidade: 🟠 ALTO |
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:02*
+*Pipeline normativos-bcb | iFood Pago Compliance | 10/06/2026 16:04*
