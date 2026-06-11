@@ -1,6 +1,6 @@
 # BC - Resolução BCB N° 573 de 10/06/2026
 
-> **Análise iFood Pago | Compliance** — 11/06/2026 08:01  
+> **Análise iFood Pago | Compliance** — 11/06/2026 16:01  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -43,10 +43,10 @@ Altera a Resolução BCB nº 69, de 10 de fevereiro de 2021, que dispõe sobre a
 
 🟢 NÃO APLICÁVEL — Resolução BCB nº 573/2026
 
-**Por que não se aplica:** A Resolução BCB nº 573/2026 altera a Resolução BCB nº 69/2021 para incluir informações relativas às atividades com ativos virtuais e ao requerimento mínimo de razão de alavancagem (RA). O iFood Pago, embora classificado como conglomerado prudencial Tipo 3, não realiza atividades com ativos virtuais, conforme o contexto fornecido. Além disso, não há indicação de que o iFood Pago esteja sujeito ao requerimento mínimo de RA, sendo que os requisitos prudenciais adicionais podem aplicar-se apenas em caso de reclassificação do segmento regulatório. Por fim, a Resolução BCB nº 69 não é mencionada como aplicável ao iFood Pago no contexto atual.
+**Por que não se aplica:** A Resolução BCB nº 573/2026 altera a Resolução BCB nº 69/2021 para incluir informações relativas às atividades com ativos virtuais e ao requerimento mínimo de razão de alavancagem (RA). O iFood Pago não realiza atividades com ativos virtuais, conforme definido no contexto operacional, e atualmente não está sujeito ao requerimento mínimo de razão de alavancagem (RA), dado que o grupo está classificado como segmento S5. Além disso, a Resolução BCB nº 69 não consta como aplicável ao iFood Pago no contexto regulatório vigente.
 
 _👍 correto ou 👎 incorreto?_
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 11/06/2026 08:01*
+*Pipeline normativos-bcb | iFood Pago Compliance | 11/06/2026 16:01*
