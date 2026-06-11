@@ -12,7 +12,7 @@
     "texto_integral": "",
     "texto_fonte": "ementa",
     "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573",
-    "capturado_em": "2026-06-11T08:00:55.973672-03:00"
+    "capturado_em": "2026-06-11T16:01:03.405688-03:00"
   },
   "classificacao": {
     "normativo_id": "normativos_52922",
@@ -91,13 +91,13 @@
     "areas_responsaveis": [],
     "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573",
     "data_publicacao": "2026-06-10T18:00:34-03:00",
-    "data_analise": "2026-06-11 08:00",
-    "markdown": "# BC - Resolução BCB N° 573 de 10/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-11 08:00\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução BCB |\n| **Número** | 573 |\n| **Data de Publicação** | 2026-06-10T18:00:34-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Resolução BCB nº 69, de 10 de fevereiro de 2021, que dispõe sobre a prestação de informações ao Banco Central do Brasil relativas à apuração de limites e padrões regulamentares, para incluir informações relativas às atividades com ativos virtuais e ao requerimento mínimo de razão de alavancagem – RA.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+    "data_analise": "2026-06-11 16:01",
+    "markdown": "# BC - Resolução BCB N° 573 de 10/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-11 16:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução BCB |\n| **Número** | 573 |\n| **Data de Publicação** | 2026-06-10T18:00:34-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Resolução BCB nº 69, de 10 de fevereiro de 2021, que dispõe sobre a prestação de informações ao Banco Central do Brasil relativas à apuração de limites e padrões regulamentares, para incluir informações relativas às atividades com ativos virtuais e ao requerimento mínimo de razão de alavancagem – RA.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
   },
   "responsaveis": [],
   "metadata": {
     "pipeline": "normativos-bcb",
     "versao": "2.0",
-    "data_analise": "2026-06-11T08:01:09.445135-03:00"
+    "data_analise": "2026-06-11T16:01:50.998670-03:00"
   }
 }
