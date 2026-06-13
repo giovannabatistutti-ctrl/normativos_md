@@ -1,0 +1,214 @@
+{
+  "normativo": {
+    "id": "normativos_52925",
+    "titulo": "BC - Instrução Normativa BCB N° 744 de 12/06/2026",
+    "ementa": "Altera a Instrução Normativa BCB nº 33, de 29 de outubro de 2020, que estabelece os procedimentos para a remessa das informações de que trata a Circular nº 3.979, de 30 de janeiro de 2020, e altera as Instruções de Preenchimento e o leiaute do documento de código 5050 – Demonstrativo de Risco Operacional – DRO, de que trata a Instrução Normativa BCB nº 33, de 2020.",
+    "data_publicacao": "2026-06-12T10:40:26-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "744",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744",
+    "capturado_em": "2026-06-12T21:01:11.188917-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52925",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 744 de 12/06/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "BAIXA",
+    "justificativa": "A IN BCB nº 744 não é diretamente aplicável mas deve ser monitorada pois altera a instrução normativa bcb nº 33, de 29 de outubro de 2020, que estabelece os procedimentos para a remessa das informações de que trata a circular nº 3.979, de 30 de janeiro de 2020, e altera as Temas a acompanhar: risco.",
+    "passo1_tipo": "Instrução Normativa BCB nº 744 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[MONITORAR] risco"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-001",
+        "nome": "Política de Governança Corporativa",
+        "area_responsavel": "Conselho de Administração (aprovação); Diretoria (execução); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-001"
+      },
+      {
+        "codigo": "iFP-POL-018",
+        "nome": "Política de Gerenciamento Integrado de Riscos",
+        "area_responsavel": "Riscos (coordenação); ALCO (ativos/passivos); Compliance (monitoramento); Diretoria (aprovação da RAS); Comitê Independente (supervisão).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-018"
+      },
+      {
+        "codigo": "iFP-POL-026",
+        "nome": "Política de Cadastro (KYC/CDD)",
+        "area_responsavel": "Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-026"
+      },
+      {
+        "codigo": "iFP-POL-011",
+        "nome": "Política de Segurança da Informação e Cibernética",
+        "area_responsavel": "CISO/Segurança da Informação (coordenação); TI (controles técnicos); Compliance (monitoramento regulatório); Jurídico (notificações).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-011"
+      },
+      {
+        "codigo": "iFP-POL-016",
+        "nome": "Política de Continuidade de Negócios",
+        "area_responsavel": "Gestão de Crise / Riscos (coordenação); TI (suporte técnico); todas as áreas (processos críticos); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-016"
+      },
+      {
+        "codigo": "iFP-PRD-01",
+        "nome": "Procedimento de Gerenciamento de Riscos de Chargeback",
+        "area_responsavel": "Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-01"
+      },
+      {
+        "codigo": "iFP-PRD-12",
+        "nome": "Procedimento de Análise de Impacto nos Negócios (BIA)",
+        "area_responsavel": "Gestão de Riscos/Continuidade (coordenação); todas as áreas (fornecimento de dados dos processos); TI (sistemas críticos); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-12"
+      },
+      {
+        "codigo": "iFP-POL-020",
+        "nome": "Política de Precificação",
+        "area_responsavel": "Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-020"
+      },
+      {
+        "codigo": "iFP-POL-024",
+        "nome": "Política de Cobrança",
+        "area_responsavel": "Cobrança/Recovery (execução); Jurídico (ajuizamento e cessão); Compliance (conformidade CDC e BCB); Riscos (estratégia por cluster).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-024"
+      },
+      {
+        "codigo": "iFP-POL-025",
+        "nome": "Política de Gestão de Instrumentos Financeiros",
+        "area_responsavel": "ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-025"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": false,
+    "feedback_notas": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52925",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 744 de 12/06/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Ajustes pontuais em procedimentos: procedimento.",
+      "elementos_identificados": [
+        "procedimento"
+      ]
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.2222222222222223,
+    "justificativa_consolidada": "Score médio ponderado: 1.22/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52925",
+    "titulo": "BC - Instrução Normativa BCB N° 744 de 12/06/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "744",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Altera a Instrução Normativa BCB nº 33, de 29 de outubro de 2020, que estabelece os procedimentos para a remessa das informações de que trata a Circular nº 3.979, de 30 de janeiro de 2020, e altera as Instruções de Preenchimento e o leiaute do documento de código 5050 – Demonstrativo de Risco Operacional – DRO, de que trata a Instrução Normativa BCB nº 33, de 2020.",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Monitorar norma e avaliar aplicabilidade em revisão periódica"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-001 — Política de Governança Corporativa (Conselho de Administração (aprovação); Diretoria (execução); Compliance (monitoramento).)",
+      "iFP-POL-018 — Política de Gerenciamento Integrado de Riscos (Riscos (coordenação); ALCO (ativos/passivos); Compliance (monitoramento); Diretoria (aprovação da RAS); Comitê Independente (supervisão).)",
+      "iFP-POL-026 — Política de Cadastro (KYC/CDD) (Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).)",
+      "iFP-POL-011 — Política de Segurança da Informação e Cibernética (CISO/Segurança da Informação (coordenação); TI (controles técnicos); Compliance (monitoramento regulatório); Jurídico (notificações).)",
+      "iFP-POL-016 — Política de Continuidade de Negócios (Gestão de Crise / Riscos (coordenação); TI (suporte técnico); todas as áreas (processos críticos); Compliance (monitoramento).)",
+      "iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)",
+      "iFP-PRD-12 — Procedimento de Análise de Impacto nos Negócios (BIA) (Gestão de Riscos/Continuidade (coordenação); todas as áreas (fornecimento de dados dos processos); TI (sistemas críticos); Compliance (monitoramento).)",
+      "iFP-POL-020 — Política de Precificação (Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).)"
+    ],
+    "areas_responsaveis": [
+      "Conselho de Administração (aprovação) / Responsável por iFP-POL-001 — Revisar iFP-POL-001 — Política de Governança Corporativa para adequação ao normativo",
+      "Riscos (coordenação) / Responsável por iFP-POL-018 — Revisar iFP-POL-018 — Política de Gerenciamento Integrado de Riscos para adequação ao normativo",
+      "Compliance/PLD (1ª e 2ª linhas) / Responsável por iFP-POL-026 — Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo",
+      "CISO/Segurança da Informação (coordenação) / Responsável por iFP-POL-011 — Revisar iFP-POL-011 — Política de Segurança da Informação e Cibernética para adequação ao normativo",
+      "Gestão de Crise / Riscos (coordenação) / Responsável por iFP-POL-016 — Revisar iFP-POL-016 — Política de Continuidade de Negócios para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744",
+    "data_publicacao": "2026-06-12T10:40:26-03:00",
+    "data_analise": "2026-06-12 21:01",
+    "markdown": "# BC - Instrução Normativa BCB N° 744 de 12/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-12 21:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 744 |\n| **Data de Publicação** | 2026-06-12T10:40:26-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Instrução Normativa BCB nº 33, de 29 de outubro de 2020, que estabelece os procedimentos para a remessa das informações de que trata a Circular nº 3.979, de 30 de janeiro de 2020, e altera as Instruções de Preenchimento e o leiaute do documento de código 5050 – Demonstrativo de Risco Operacional – DRO, de que trata a Instrução Normativa BCB nº 33, de 2020.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Monitorar norma e avaliar aplicabilidade em revisão periódica\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-001 — Política de Governança Corporativa (Conselho de Administração (aprovação); Diretoria (execução); Compliance (monitoramento).)\n- iFP-POL-018 — Política de Gerenciamento Integrado de Riscos (Riscos (coordenação); ALCO (ativos/passivos); Compliance (monitoramento); Diretoria (aprovação da RAS); Comitê Independente (supervisão).)\n- iFP-POL-026 — Política de Cadastro (KYC/CDD) (Compliance/PLD (1ª e 2ª linhas); Operações/Onboarding (execução); Tecnologia (automação KYC); Jurídico (suporte).)\n- iFP-POL-011 — Política de Segurança da Informação e Cibernética (CISO/Segurança da Informação (coordenação); TI (controles técnicos); Compliance (monitoramento regulatório); Jurídico (notificações).)\n- iFP-POL-016 — Política de Continuidade de Negócios (Gestão de Crise / Riscos (coordenação); TI (suporte técnico); todas as áreas (processos críticos); Compliance (monitoramento).)\n- iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)\n- iFP-PRD-12 — Procedimento de Análise de Impacto nos Negócios (BIA) (Gestão de Riscos/Continuidade (coordenação); todas as áreas (fornecimento de dados dos processos); TI (sistemas críticos); Compliance (monitoramento).)\n- iFP-POL-020 — Política de Precificação (Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).)\n\n---\n\n## Áreas Responsáveis\n\n- Conselho de Administração (aprovação) / Responsável por iFP-POL-001 — Revisar iFP-POL-001 — Política de Governança Corporativa para adequação ao normativo\n- Riscos (coordenação) / Responsável por iFP-POL-018 — Revisar iFP-POL-018 — Política de Gerenciamento Integrado de Riscos para adequação ao normativo\n- Compliance/PLD (1ª e 2ª linhas) / Responsável por iFP-POL-026 — Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo\n- CISO/Segurança da Informação (coordenação) / Responsável por iFP-POL-011 — Revisar iFP-POL-011 — Política de Segurança da Informação e Cibernética para adequação ao normativo\n- Gestão de Crise / Riscos (coordenação) / Responsável por iFP-POL-016 — Revisar iFP-POL-016 — Política de Continuidade de Negócios para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Conselho de Administração (aprovação)",
+      "time": "Responsável por iFP-POL-001",
+      "acao": "Revisar iFP-POL-001 — Política de Governança Corporativa para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Riscos (coordenação)",
+      "time": "Responsável por iFP-POL-018",
+      "acao": "Revisar iFP-POL-018 — Política de Gerenciamento Integrado de Riscos para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Compliance/PLD (1ª e 2ª linhas)",
+      "time": "Responsável por iFP-POL-026",
+      "acao": "Revisar iFP-POL-026 — Política de Cadastro (KYC/CDD) para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "CISO/Segurança da Informação (coordenação)",
+      "time": "Responsável por iFP-POL-011",
+      "acao": "Revisar iFP-POL-011 — Política de Segurança da Informação e Cibernética para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Gestão de Crise / Riscos (coordenação)",
+      "time": "Responsável por iFP-POL-016",
+      "acao": "Revisar iFP-POL-016 — Política de Continuidade de Negócios para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-12T21:01:34.277266-03:00"
+  }
+}
