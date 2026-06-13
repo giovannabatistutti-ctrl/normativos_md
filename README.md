@@ -70,3 +70,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-06-11 | [Resolução CMN nº 5.308](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5308) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-06-12 | [Instrução Normativa BCB nº 744](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744) | 🟡 MONITORAR | BAIXO |
