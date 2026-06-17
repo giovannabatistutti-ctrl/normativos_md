@@ -85,3 +85,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-06-16 | [Normativo BCB nº 3](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Coseg&numero=3) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-06-16 | [Normativo BCB nº 2](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Coseg&numero=2) | 🟡 MONITORAR | BAIXO |
