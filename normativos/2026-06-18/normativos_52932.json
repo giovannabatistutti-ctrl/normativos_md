@@ -1,0 +1,151 @@
+{
+  "normativo": {
+    "id": "normativos_52932",
+    "titulo": "BC - Instrução Normativa BCB N° 748 de 18/06/2026",
+    "ementa": "Define os procedimentos para a verificação do cumprimento dos limites mínimos de capital social integralizado e de patrimônio líquido, para fins de participação no Pix na modalidade de provedor de conta transacional, bem como o prazo para a sua recomposição.",
+    "data_publicacao": "2026-06-18T09:54:12-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "748",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748",
+    "capturado_em": "2026-06-18T15:55:03.129550-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52932",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 748 de 18/06/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 748 não é diretamente aplicável mas deve ser monitorada pois define os procedimentos para a verificação do cumprimento dos limites mínimos de capital social integralizado e de patrimônio líquido, para fins de participação no pix na modalidade de provedor de con Temas a acompanhar: capital.",
+    "passo1_tipo": "Instrução Normativa BCB nº 748 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] pix",
+      "[APLICÁVEL] patrimônio líquido",
+      "[MONITORAR] capital"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-013",
+        "nome": "Política de Prevenção e Combate a Fraudes",
+        "area_responsavel": "Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-013"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52932",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 748 de 18/06/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "ALTO",
+      "score_numerico": 3,
+      "justificativa": "Impacto em processos operacionais: api, procedimento.",
+      "elementos_identificados": [
+        "api",
+        "procedimento"
+      ]
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Impacto moderado em clientes (não especificado): sac.",
+      "elementos_identificados": [
+        "sac"
+      ]
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.6666666666666667,
+    "justificativa_consolidada": "Pilares ALTOS: Impacto Operacional. Score médio ponderado: 1.67/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52932",
+    "titulo": "BC - Instrução Normativa BCB N° 748 de 18/06/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "748",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Define os procedimentos para a verificação do cumprimento dos limites mínimos de capital social integralizado e de patrimônio líquido, para fins de participação no Pix na modalidade de provedor de conta transacional, bem como o prazo para a sua recomposição.",
+    "para_quem_se_aplica": "**Produtos:** Pix, POS (Máquina de Cartão)",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Avaliar impacto em sistemas e processos operacionais; envolver TI e Produtos",
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)"
+    ],
+    "areas_responsaveis": [
+      "Produtos / Pix — Avaliar impacto no produto Pix e adequações necessárias",
+      "Financeiro / Tesouraria / Tesouraria — Avaliar requisitos de patrimônio líquido",
+      "Tecnologia / Produtos / Engineering — Avaliar impacto em sistemas e plataformas; estimar esforço de adequação",
+      "Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748",
+    "data_publicacao": "2026-06-18T09:54:12-03:00",
+    "data_analise": "2026-06-18 15:55",
+    "markdown": "# BC - Instrução Normativa BCB N° 748 de 18/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-18 15:55\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 748 |\n| **Data de Publicação** | 2026-06-18T09:54:12-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nDefine os procedimentos para a verificação do cumprimento dos limites mínimos de capital social integralizado e de patrimônio líquido, para fins de participação no Pix na modalidade de provedor de conta transacional, bem como o prazo para a sua recomposição.\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** Pix, POS (Máquina de Cartão)\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Avaliar impacto em sistemas e processos operacionais; envolver TI e Produtos\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n\n---\n\n## Áreas Responsáveis\n\n- Produtos / Pix — Avaliar impacto no produto Pix e adequações necessárias\n- Financeiro / Tesouraria / Tesouraria — Avaliar requisitos de patrimônio líquido\n- Tecnologia / Produtos / Engineering — Avaliar impacto em sistemas e plataformas; estimar esforço de adequação\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Produtos",
+      "time": "Pix",
+      "acao": "Avaliar impacto no produto Pix e adequações necessárias",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Financeiro / Tesouraria",
+      "time": "Tesouraria",
+      "acao": "Avaliar requisitos de patrimônio líquido",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Tecnologia / Produtos",
+      "time": "Engineering",
+      "acao": "Avaliar impacto em sistemas e plataformas; estimar esforço de adequação",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Fraudes/Risk (coordenação)",
+      "time": "Responsável por iFP-POL-013",
+      "acao": "Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-18T15:55:28.232718-03:00"
+  }
+}
