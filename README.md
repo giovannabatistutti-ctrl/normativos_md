@@ -103,3 +103,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-06-23 | [Resolução BCB nº 577](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=577) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-06-23 | [Resolução BCB nº 576](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576) | 🔴 APLICÁVEL | BAIXO |
