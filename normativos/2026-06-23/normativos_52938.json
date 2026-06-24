@@ -1,0 +1,168 @@
+{
+  "normativo": {
+    "id": "normativos_52938",
+    "titulo": "BC - Resolução BCB N° 576 de 23/06/2026",
+    "ementa": "Dispõe sobre a política de sucessão de administradores das administradoras de consórcio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários, das sociedades corretoras de câmbio, das sociedades prestadoras de serviços de ativos virtuais e das instituições de pagamento.",
+    "data_publicacao": "2026-06-23T18:01:13-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576",
+    "tipo": "Resolução BCB",
+    "numero": "576",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576",
+    "capturado_em": "2026-06-23T21:04:21.755067-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52938",
+    "normativo_titulo": "BC - Resolução BCB N° 576 de 23/06/2026",
+    "classificacao": "APLICÁVEL",
+    "confianca": "MÉDIA",
+    "justificativa": "A Res. BCB nº 576 aplica-se diretamente ao iFood Pago pois dispõe sobre a política de sucessão de administradores das administradoras de consórcio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores  Menciona explicitamente: instituições de pagamento. Temas relevantes: pagamento.",
+    "passo1_tipo": "Resolução BCB nº 576 (2026)",
+    "passo2_atinge_ifood": true,
+    "passo2_razoes": [
+      "instituições de pagamento"
+    ],
+    "passo3_temas": [
+      "[APLICÁVEL] pagamento"
+    ],
+    "passo4_classificacao": "APLICÁVEL",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-013",
+        "nome": "Política de Prevenção e Combate a Fraudes",
+        "area_responsavel": "Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-013"
+      },
+      {
+        "codigo": "iFP-PRD-01",
+        "nome": "Procedimento de Gerenciamento de Riscos de Chargeback",
+        "area_responsavel": "Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-01"
+      },
+      {
+        "codigo": "iFP-POL-017",
+        "nome": "Política de Retenção e Governança de Dados",
+        "area_responsavel": "DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-017"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52938",
+    "normativo_titulo": "BC - Resolução BCB N° 576 de 23/06/2026",
+    "classificacao": "APLICÁVEL",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.0,
+    "justificativa_consolidada": "Score médio ponderado: 1.00/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52938",
+    "titulo": "BC - Resolução BCB N° 576 de 23/06/2026",
+    "tipo": "Resolução BCB",
+    "numero": "576",
+    "classificacao": "APLICÁVEL",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Dispõe sobre a política de sucessão de administradores das administradoras de consórcio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários, das sociedades corretoras de câmbio, das sociedades prestadoras de serviços de ativos virtuais e das instituições de pagamento.",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago",
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)",
+      "iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)",
+      "iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)"
+    ],
+    "areas_responsaveis": [
+      "Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas",
+      "Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo",
+      "Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576",
+    "data_publicacao": "2026-06-23T18:01:13-03:00",
+    "data_analise": "2026-06-23 21:05",
+    "markdown": "# BC - Resolução BCB N° 576 de 23/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-23 21:05\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução BCB |\n| **Número** | 576 |\n| **Data de Publicação** | 2026-06-23T18:01:13-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🔴 **APLICÁVEL** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nDispõe sobre a política de sucessão de administradores das administradoras de consórcio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários, das sociedades corretoras de câmbio, das sociedades prestadoras de serviços de ativos virtuais e das instituições de pagamento.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-013 — Política de Prevenção e Combate a Fraudes (Fraudes/Risk (coordenação); Compliance/PLD (integração); Operações (execução de bloqueios); Jurídico (processos judiciais).)\n- iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback (Risco/Fraudes (avaliação); Operações/Onboarding de Parceiros (execução); Jurídico (contratos de colateral).)\n- iFP-POL-017 — Política de Retenção e Governança de Dados (DPO (coordenação e conformidade LGPD); Jurídico (prazos legais); TI (implementação técnica); Compliance (monitoramento).)\n\n---\n\n## Áreas Responsáveis\n\n- Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas\n- Produtos / Arranjos de Pagamento — Verificar conformidade do arranjo\n- Fraudes/Risk (coordenação) / Responsável por iFP-POL-013 — Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo\n- Risco/Fraudes (avaliação) / Responsável por iFP-PRD-01 — Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo\n- DPO (coordenação e conformidade LGPD) / Responsável por iFP-POL-017 — Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Compliance",
+      "time": "Compliance Regulatório",
+      "acao": "Analisar norma e coordenar adequação entre áreas",
+      "prioridade": "ALTA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Produtos",
+      "time": "Arranjos de Pagamento",
+      "acao": "Verificar conformidade do arranjo",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Fraudes/Risk (coordenação)",
+      "time": "Responsável por iFP-POL-013",
+      "acao": "Revisar iFP-POL-013 — Política de Prevenção e Combate a Fraudes para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Risco/Fraudes (avaliação)",
+      "time": "Responsável por iFP-PRD-01",
+      "acao": "Revisar iFP-PRD-01 — Procedimento de Gerenciamento de Riscos de Chargeback para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "DPO (coordenação e conformidade LGPD)",
+      "time": "Responsável por iFP-POL-017",
+      "acao": "Revisar iFP-POL-017 — Política de Retenção e Governança de Dados para adequação ao normativo",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-23T21:05:43.327889-03:00"
+  }
+}
