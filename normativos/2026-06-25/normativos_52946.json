@@ -1,0 +1,102 @@
+{
+  "normativo": {
+    "id": "normativos_52946",
+    "titulo": "BC - Resolução CMN N° 5.313 de 25/06/2026",
+    "ementa": "Altera a Resolução CMN nº 5.309, de 19 de junho de 2026, que estabelece as definições, os encargos financeiros, as condições e as demais normas regulamentadoras aplicáveis às linhas de financiamento reembolsável para investimentos em infraestruturas, equipamentos e renovação da frota de veículos de serviços de transporte urbano individual de passageiros ou de cargas.",
+    "data_publicacao": "2026-06-25T18:04:35-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313",
+    "tipo": "Resolução CMN",
+    "numero": "5.313",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313",
+    "capturado_em": "2026-06-25T21:04:20.378314-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52946",
+    "normativo_titulo": "BC - Resolução CMN N° 5.313 de 25/06/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "BAIXA",
+    "justificativa": "A Res. CMN nº 5.313 não é diretamente aplicável mas deve ser monitorada pois altera a resolução cmn nº 5.309, de 19 de junho de 2026, que estabelece as definições, os encargos financeiros, as condições e as demais normas regulamentadoras aplicáveis às linhas de financiamento r Temas a acompanhar: investimento.",
+    "passo1_tipo": "Resolução CMN nº 5.313 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[MONITORAR] investimento"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52946",
+    "normativo_titulo": "BC - Resolução CMN N° 5.313 de 25/06/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Impacto financeiro moderado: encargo.",
+      "elementos_identificados": [
+        "encargo"
+      ]
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.2222222222222223,
+    "justificativa_consolidada": "Score médio ponderado: 1.22/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52946",
+    "titulo": "BC - Resolução CMN N° 5.313 de 25/06/2026",
+    "tipo": "Resolução CMN",
+    "numero": "5.313",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Altera a Resolução CMN nº 5.309, de 19 de junho de 2026, que estabelece as definições, os encargos financeiros, as condições e as demais normas regulamentadoras aplicáveis às linhas de financiamento reembolsável para investimentos em infraestruturas, equipamentos e renovação da frota de veículos de serviços de transporte urbano individual de passageiros ou de cargas.",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Considerar feedback anterior da equipe: Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago"
+    ],
+    "politicas_revisar": [],
+    "areas_responsaveis": [],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313",
+    "data_publicacao": "2026-06-25T18:04:35-03:00",
+    "data_analise": "2026-06-25 21:06",
+    "markdown": "# BC - Resolução CMN N° 5.313 de 25/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-25 21:06\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução CMN |\n| **Número** | 5.313 |\n| **Data de Publicação** | 2026-06-25T18:04:35-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Resolução CMN nº 5.309, de 19 de junho de 2026, que estabelece as definições, os encargos financeiros, as condições e as demais normas regulamentadoras aplicáveis às linhas de financiamento reembolsável para investimentos em infraestruturas, equipamentos e renovação da frota de veículos de serviços de transporte urbano individual de passageiros ou de cargas.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-25T21:06:16.693110-03:00"
+  }
+}
