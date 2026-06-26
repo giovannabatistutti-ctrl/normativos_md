@@ -112,3 +112,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-06-25 | [Resolução CMN nº 5.320](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320) | 🟡 MONITORAR | ALTO |
+
+
+| 2026-06-25 | [Resolução CMN nº 5.318](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5318) | 🟡 MONITORAR | BAIXO |
