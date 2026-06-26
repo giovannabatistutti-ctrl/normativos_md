@@ -1,0 +1,105 @@
+{
+  "normativo": {
+    "id": "normativos_52953",
+    "titulo": "BC - Resolução CMN N° 5.320 de 25/06/2026",
+    "ementa": "Dispõe sobre o bloqueio de contas e o impedimento de transações financeiras de pessoas naturais e jurídicas que explorem a modalidade lotérica de apostas de quota fixa sem autorização.",
+    "data_publicacao": "2026-06-25T18:11:52-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320",
+    "tipo": "Resolução CMN",
+    "numero": "5.320",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320",
+    "capturado_em": "2026-06-25T21:04:20.378226-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52953",
+    "normativo_titulo": "BC - Resolução CMN N° 5.320 de 25/06/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "BAIXA",
+    "justificativa": "A Res. CMN nº 5.320 não é diretamente aplicável mas deve ser monitorada pois dispõe sobre o bloqueio de contas e o impedimento de transações financeiras de pessoas naturais e jurídicas que explorem a modalidade lotérica de apostas de quota fixa sem autorização. Temas a acompanhar: financeira.",
+    "passo1_tipo": "Resolução CMN nº 5.320 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[MONITORAR] financeira"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52953",
+    "normativo_titulo": "BC - Resolução CMN N° 5.320 de 25/06/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Obrigações regulatórias identificadas: autorização.",
+      "elementos_identificados": [
+        "autorização"
+      ]
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "CRÍTICO",
+      "score_numerico": 4,
+      "justificativa": "Impacto direto nos clientes (não especificado): bloqueio de conta.",
+      "elementos_identificados": [
+        "bloqueio de conta"
+      ]
+    },
+    "score_consolidado": "ALTO",
+    "score_numerico": 2.0,
+    "justificativa_consolidada": "Pilares CRÍTICOS: Impacto em Clientes. Score médio ponderado: 2.00/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52953",
+    "titulo": "BC - Resolução CMN N° 5.320 de 25/06/2026",
+    "tipo": "Resolução CMN",
+    "numero": "5.320",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "ALTO",
+    "o_que_determina": "Dispõe sobre o bloqueio de contas e o impedimento de transações financeiras de pessoas naturais e jurídicas que explorem a modalidade lotérica de apostas de quota fixa sem autorização.",
+    "para_quem_se_aplica": "**Produtos:** POS (Máquina de Cartão)",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Verificar impacto nos contratos/termos com clientes B2C e B2B; avaliar comunicação necessária",
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [],
+    "areas_responsaveis": [],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320",
+    "data_publicacao": "2026-06-25T18:11:52-03:00",
+    "data_analise": "2026-06-25 21:04",
+    "markdown": "# BC - Resolução CMN N° 5.320 de 25/06/2026\n\n> **Análise iFood Pago | Compliance** — 2026-06-25 21:04\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução CMN |\n| **Número** | 5.320 |\n| **Data de Publicação** | 2026-06-25T18:11:52-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🔴 **ALTO** |\n\n---\n\n## O Que a Norma Determina\n\nDispõe sobre o bloqueio de contas e o impedimento de transações financeiras de pessoas naturais e jurídicas que explorem a modalidade lotérica de apostas de quota fixa sem autorização.\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** POS (Máquina de Cartão)\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Verificar impacto nos contratos/termos com clientes B2C e B2B; avaliar comunicação necessária\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-06-25T21:04:36.931309-03:00"
+  }
+}
