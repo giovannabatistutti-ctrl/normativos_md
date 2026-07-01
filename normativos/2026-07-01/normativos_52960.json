@@ -1,0 +1,104 @@
+{
+  "normativo": {
+    "id": "normativos_52960",
+    "titulo": "BC - Instrução Normativa BCB N° 754 de 01/07/2026",
+    "ementa": "Altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.",
+    "data_publicacao": "2026-07-01T15:10:40-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "754",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754",
+    "capturado_em": "2026-07-01T15:51:05.768806-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52960",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 754 de 01/07/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 754 não é diretamente aplicável mas deve ser monitorada pois altera a instrução normativa bcb nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no sistema de informações sobre entidades de interesse do b Temas a acompanhar: banco.",
+    "passo1_tipo": "Instrução Normativa BCB nº 754 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] banco central",
+      "[MONITORAR] banco"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52960",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 754 de 01/07/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Ajustes pontuais em procedimentos: procedimento, registro.",
+      "elementos_identificados": [
+        "procedimento",
+        "registro"
+      ]
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.2222222222222223,
+    "justificativa_consolidada": "Score médio ponderado: 1.22/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52960",
+    "titulo": "BC - Instrução Normativa BCB N° 754 de 01/07/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "754",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [],
+    "areas_responsaveis": [],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754",
+    "data_publicacao": "2026-07-01T15:10:40-03:00",
+    "data_analise": "2026-07-01 15:51",
+    "markdown": "# BC - Instrução Normativa BCB N° 754 de 01/07/2026\n\n> **Análise iFood Pago | Compliance** — 2026-07-01 15:51\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 754 |\n| **Data de Publicação** | 2026-07-01T15:10:40-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- A definir\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-07-01T15:51:21.059286-03:00"
+  }
+}
