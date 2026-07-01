@@ -124,3 +124,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-06-30 | [Resolução CMN nº 5.321](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5321) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-07-01 | [Instrução Normativa BCB nº 754](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754) | 🟡 MONITORAR | BAIXO |
