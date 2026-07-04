@@ -81,6 +81,76 @@
 
 ---
 
+## Seção 4 — Open Finance & Pix: Status Operacional e Obrigações em Aberto
+
+> Esta seção registra o contexto regulatório real do iFood Pago como participante do ecossistema Open Finance Brasil e do arranjo Pix, incluindo não conformidades em aberto junto à AOFB e o plano de adequação vigente.
+
+### 4.1 Histórico de Ingresso no Open Finance
+
+| Marco | Data | Descrição |
+|---|---|---|
+| Autorização BCB como IP regulada | 31/10/2023 | Zoop obtém autorização para atuar como Instituição de Pagamento |
+| Registro do Conglomerado iFood Pago IP Prudencial | 12/03/2025 | Formalização do conglomerado prudencial Tipo 3 |
+| Renomeação para iFood Pago IP | Dez/2025 | BCB autoriza alteração da denominação social da Zoop |
+| Reconhecimento como participante obrigatório do Pix | 2025 | Crescimento da base de contas superou 500.000 contas, tornando a ES participante obrigatória do Pix como provedora de conta transacional, e consequentemente do Open Finance como detentor de conta |
+
+**Nota estratégica:** A iFood Pago havia comunicado à AOFB (Tickets #120054 e #111467, de 31/10/2025 e 05/12/2025) a expectativa de manter base inferior a 500.000 contas após processo de saneamento. O crescimento concomitante ao saneamento frustrou essa expectativa, tornando a ES participante obrigatória.
+
+### 4.2 Obrigações Ativas como Participante Obrigatório
+
+| Papel | Status regulatório | Base normativa |
+|---|---|---|
+| Participante obrigatório do Pix (provedor de conta transacional) | ✅ Ativo | Regulamento Pix + Art. 3º, §2º, Res. BCB nº 1/2020 |
+| Detentor de Conta (Open Finance) | ✅ Ativo | Resolução BCB nº 1/2020 |
+| ITP — Iniciador de Transação de Pagamento | ✅ Ativo | Resolução BCB nº 1/2020 |
+| Transmissor de Dados (Open Finance) | ⚠️ Inativo — adequação pendente | Resolução BCB nº 1/2020 |
+| Receptor de Dados (Open Finance) | ⚠️ Inativo — adequação pendente | Resolução BCB nº 1/2020 |
+
+### 4.3 Comunicação Formal Pendente ao BCB
+
+- **Ação em aberto:** Notificação oficial ao BCB do iFood Pago como participante obrigatório do Pix na qualidade de provedor de conta transacional, nos termos do **Art. 3º, §2º da Resolução BCB nº 1/2020**.
+- Status: pendente de envio formal.
+
+### 4.4 Status das Implantações Open Finance (Detentor de Conta)
+
+| Entrega | Prazo comprometido | Status |
+|---|---|---|
+| Backoffice (plataforma) | Jan/2026 | ✅ Concluído |
+| Front-end PF (experiência do usuário — pessoa física) | Jun/2026 | ✅ Concluído |
+| Front-end PJ (experiência do usuário — pessoa jurídica) | Abr/2026 | ✅ Concluído |
+
+### 4.5 Não Conformidades em Aberto (AOFB)
+
+| Item | Descrição | Previsão de regularização |
+|---|---|---|
+| Tempo de Resposta | Indicador de tempo de resposta das APIs Open Finance fora do padrão exigido | Nov/2027 (após conclusão de Vínculo de Dispositivo) |
+| Taxa de Conversão da ITP | Taxa de conversão da Iniciação de Transação de Pagamento abaixo do requerido | Nov/2027 |
+| Taxa de Conversão de Vínculo | Indicador de conversão de vínculo abaixo do requerido | Nov/2027 |
+
+**Dependência-chave:** a regularização dos três indicadores acima está condicionada à conclusão da implementação do **Vínculo de Dispositivo (JSR)**, prevista para **agosto/2027**, mais o período mínimo de acumulação dos indicadores de engajamento.
+
+### 4.6 Plano de Adequação — Pedido à AOFB/BCB
+
+A iFood Pago IP solicitou formalmente à AOFB e ao BCB:
+1. **Implantação progressiva em produção:** subida faseada de funcionalidades à medida que cada uma seja concluída e validada, em vez de implantação simultânea.
+2. **Orientação de critérios por entrega:** definição, pela Estrutura OF Brasil e pelo BCB, dos requisitos para cada implantação individual (ex.: homologação prévia, envio de vídeo de experiência do usuário, atingimento de indicadores de engajamento mínimos).
+
+Objetivos declarados da abordagem faseada:
+- Antecipar benefícios ao usuário final com segurança
+- Reduzir risco operacional de implantação simultânea
+- Alinhar às boas práticas de gestão de riscos tecnológicos da regulação vigente
+
+### 4.7 Impacto Regulatório Mapeado
+
+| Dimensão | Impacto |
+|---|---|
+| Compliance Open Finance | NCs abertas em 3 indicadores; prazo de regularização nov/2027 |
+| Comunicação ao BCB | Notificação formal de participante obrigatório ainda não enviada — risco regulatório |
+| Transmissor/Receptor de Dados | Capacidades ainda inativas — obrigações futuras quando ativadas |
+| Proteção ao Consumidor | Interfaces PF e PJ concluídas, mas fluxo integral depende da entrega do Vínculo de Dispositivo |
+
+---
+
 ## Seção 5 — Normas Estruturantes em Vigília Permanente
 
 > Estas normas formam a base regulatória do iFood Pago e devem ser **sempre consideradas** no contexto de qualquer nova regulação analisada. Verificar se a nova norma altera, complementa ou revoga alguma delas.
@@ -108,6 +178,7 @@
 | 🟡 **Média** | Carteira Digital (em implantação) | KYC, limites operacionais e proteção ao consumidor | Normativos sobre contas de pagamento e wallets |
 | 🟡 **Média** | Evolução do Open Finance | Novas obrigações para ITP e detentor de conta | Resoluções BCB sobre Open Finance |
 | 🟡 **Média** | Proteção ao Consumidor para IPs | Mudanças em SAC, ouvidoria, tarifas e comunicação | Res. CMN e BCB sobre atendimento e tarifas |
+| 🔴 **Alta** | Open Finance — NCs junto à AOFB | Não conformidades abertas em Tempo de Resposta, Taxa de Conversão ITP e Vínculo; regularização prevista para nov/2027 | Res. BCB nº 1/2020; comunicados AOFB |
 
 
 ---
