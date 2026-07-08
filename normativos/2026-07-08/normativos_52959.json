@@ -1,0 +1,123 @@
+{
+  "normativo": {
+    "id": "normativos_52959",
+    "titulo": "BC - Instrução Normativa BCB N° 753 de 01/07/2026",
+    "ementa": "Altera a Instrução Normativa BCB nº 210, de 21 de dezembro de 2021, que altera e consolida os procedimentos de remessa do Balancete e do Balanço Patrimonial Analítico do Conglomerado Prudencial e os procedimentos de registro das instituições que não integram conglomerado prudencial, e altera as Instruções de preenchimento e o Leiaute dos documentos de códigos 4060 - Balancete Patrimonial Analítico - Conglomerado Prudencial e 4066 - Balanço Patrimonial Analítico - Conglomerado Prudencial.",
+    "data_publicacao": "2026-07-03T13:23:59-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "753",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753",
+    "capturado_em": "2026-07-08T12:04:46.178083-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52959",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 753 de 01/07/2026",
+    "classificacao": "APLICÁVEL",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 753 aplica-se diretamente ao iFood Pago pois altera a instrução normativa bcb nº 210, de 21 de dezembro de 2021, que altera e consolida os procedimentos de remessa do balancete e do balanço patrimonial analítico do conglomerado prudencial e os p Menciona explicitamente: conglomerado prudencial. Temas relevantes: conglomerado prudencial.",
+    "passo1_tipo": "Instrução Normativa BCB nº 753 (2026)",
+    "passo2_atinge_ifood": true,
+    "passo2_razoes": [
+      "conglomerado prudencial"
+    ],
+    "passo3_temas": [
+      "[APLICÁVEL] conglomerado prudencial"
+    ],
+    "passo4_classificacao": "APLICÁVEL",
+    "passo5_politicas": [],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": false,
+    "feedback_notas": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52959",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 753 de 01/07/2026",
+    "classificacao": "APLICÁVEL",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "MÉDIO",
+      "score_numerico": 2,
+      "justificativa": "Ajustes pontuais em procedimentos: procedimento, registro.",
+      "elementos_identificados": [
+        "procedimento",
+        "registro"
+      ]
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.2222222222222223,
+    "justificativa_consolidada": "Score médio ponderado: 1.22/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52959",
+    "titulo": "BC - Instrução Normativa BCB N° 753 de 01/07/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "753",
+    "classificacao": "APLICÁVEL",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Altera a Instrução Normativa BCB nº 210, de 21 de dezembro de 2021, que altera e consolida os procedimentos de remessa do Balancete e do Balanço Patrimonial Analítico do Conglomerado Prudencial e os procedimentos de registro das instituições que não integram conglomerado prudencial, e altera as Instruções de preenchimento e o Leiaute dos documentos de códigos 4060 - Balancete Patrimonial Analítico - Conglomerado Prudencial e 4066 - Balanço Patrimonial Analítico - Conglomerado Prudencial.",
+    "para_quem_se_aplica": "**Entidades:** Conglomerado Prudencial Tipo 3",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago"
+    ],
+    "politicas_revisar": [],
+    "areas_responsaveis": [
+      "Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas",
+      "Compliance / Riscos / Risco Prudencial — Avaliar obrigações do conglomerado prudencial"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753",
+    "data_publicacao": "2026-07-03T13:23:59-03:00",
+    "data_analise": "2026-07-08 12:04",
+    "markdown": "# BC - Instrução Normativa BCB N° 753 de 01/07/2026\n\n> **Análise iFood Pago | Compliance** — 2026-07-08 12:04\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 753 |\n| **Data de Publicação** | 2026-07-03T13:23:59-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🔴 **APLICÁVEL** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera a Instrução Normativa BCB nº 210, de 21 de dezembro de 2021, que altera e consolida os procedimentos de remessa do Balancete e do Balanço Patrimonial Analítico do Conglomerado Prudencial e os procedimentos de registro das instituições que não integram conglomerado prudencial, e altera as Instruções de preenchimento e o Leiaute dos documentos de códigos 4060 - Balancete Patrimonial Analítico - Conglomerado Prudencial e 4066 - Balanço Patrimonial Analítico - Conglomerado Prudencial.\n\n---\n\n## Para Quem se Aplica\n\n**Entidades:** Conglomerado Prudencial Tipo 3\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Realizar análise de gap entre a norma e os processos/políticas atuais do iFood Pago\n\n---\n\n## Políticas Internas a Revisar\n\n- Nenhuma política identificada\n\n---\n\n## Áreas Responsáveis\n\n- Compliance / Compliance Regulatório — Analisar norma e coordenar adequação entre áreas\n- Compliance / Riscos / Risco Prudencial — Avaliar obrigações do conglomerado prudencial\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Compliance",
+      "time": "Compliance Regulatório",
+      "acao": "Analisar norma e coordenar adequação entre áreas",
+      "prioridade": "ALTA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Compliance / Riscos",
+      "time": "Risco Prudencial",
+      "acao": "Avaliar obrigações do conglomerado prudencial",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-07-08T12:05:09.018263-03:00"
+  }
+}
