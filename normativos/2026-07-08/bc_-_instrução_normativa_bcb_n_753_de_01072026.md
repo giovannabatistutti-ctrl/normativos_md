@@ -1,6 +1,6 @@
 # BC - Instrução Normativa BCB N° 753 de 01/07/2026
 
-> **Análise iFood Pago | Compliance** — 08/07/2026 12:05  
+> **Análise iFood Pago | Compliance** — 08/07/2026 12:10  
 > **Gerado por:** Pipeline determinístico (agente Toqan indisponível nesta execução)
 
 ---
@@ -55,60 +55,52 @@ Altera a Instrução Normativa BCB nº 210, de 21 de dezembro de 2021, que alter
 
 ## Análise do Agente (mensagem Slack)
 
-Com base nas informações extraídas, segue a análise da Instrução Normativa BCB nº 753 de 01/07/2026:
+Com base nas informações extraídas do documento "contexto_ifood_pago.pdf", segue a análise inicial da Instrução Normativa BCB nº 753 de 01/07/2026:
 
 ---
 
-### Análise Normativa — Instrução Normativa BCB nº 753 de 01/07/2026
+### Análise Preliminar — Instrução Normativa BCB nº 753/2026
 
 #### Resumo do Normativo
-A Instrução Normativa BCB nº 753 altera a Instrução Normativa BCB nº 210, de 21 de dezembro de 2021, que consolida os procedimentos de remessa do Balancete e do Balanço Patrimonial Analítico do Conglomerado Prudencial. Além disso, modifica as instruções de preenchimento e o leiaute dos documentos de códigos 4060 (Balancete Patrimonial Analítico - Conglomerado Prudencial) e 4066 (Balanço Patrimonial Analítico - Conglomerado Prudencial).
+A Instrução Normativa BCB nº 753/2026 altera a IN BCB nº 210/2021, consolidando procedimentos de remessa do Balancete e do Balanço Patrimonial Analítico do Conglomerado Prudencial. Também modifica as instruções de preenchimento e o leiaute dos documentos de códigos 4060 e 4066, relacionados ao Balancete e Balanço Patrimonial Analítico.
 
-#### Classificação
-**Classificação sugerida:** APLICÁVEL  
-**Confiança:** ALTA
+#### Contexto e Impacto no iFood Pago
+1. **Destinatário Real**: A norma é direcionada a instituições financeiras e de pagamento que integram conglomerados prudenciais, como o iFood Pago, classificado como "Tipo 3 (conglomerado prudencial)".
+   
+2. **Impacto Operacional**:
+   - O iFood Pago, como líder de conglomerado prudencial, está sujeito a obrigações de reporte contábil e prudencial, incluindo o envio de balancetes e balanços patrimoniais analíticos.
+   - Alterações no leiaute e nas instruções de preenchimento dos documentos 4060 e 4066 podem demandar ajustes nos sistemas de reporte e governança contábil.
 
-#### Racional
-1. **Destinatários e Escopo:**  
-   O normativo é direcionado a instituições que integram conglomerados prudenciais, como o iFood Pago, que lidera um conglomerado prudencial Tipo 3. A norma impacta diretamente as obrigações de reporte contábil e prudencial do iFood Pago, incluindo a remessa de balancetes e balanços patrimoniais analíticos.
+3. **Produtos e Serviços Impactados**:
+   - **Conglomerado Prudencial**: Impacto direto nos processos de reporte contábil e prudencial.
+   - **Outros Produtos**: Não há impacto direto em produtos como Pix, Open Finance, ou contas de pagamento, mas o cumprimento das obrigações prudenciais é essencial para a continuidade das operações reguladas.
 
-2. **Impacto nos Produtos/Operações do iFood Pago:**  
-   - **Conta de Pagamento:** Impacto indireto, pois a contabilidade consolidada do conglomerado reflete as operações de contas de pagamento.  
-   - **Cartão Pré-pago e Crédito:** Impacto direto, dado que as operações de crédito e emissão de cartões são contabilizadas no balanço consolidado.  
-   - **Pix e Open Finance:** Não impacta diretamente, mas as operações podem ser refletidas nos demonstrativos contábeis.  
-   - **SCD:** Impacto direto, pois a SCD é parte integrante do conglomerado prudencial e contribui para os demonstrativos consolidados.
+4. **Lacunas e Pontos em Aberto**:
+   - A norma não especifica prazos para adaptação às mudanças no leiaute e nas instruções de preenchimento.
+   - Não há menção a regimes transitórios ou flexibilizações para instituições de menor porte dentro do conglomerado.
 
-3. **Risco Residual e Prazos:**  
-   - **Risco Legal:** Elevado, caso os novos leiautes e instruções de preenchimento não sejam implementados corretamente.  
-   - **Risco Operacional:** Médio, devido à necessidade de adaptação de sistemas e processos contábeis.  
-   - **Prazo de Adaptação:** Não especificado no texto normativo, mas recomenda-se iniciar a adaptação imediatamente para garantir conformidade nos próximos ciclos de reporte.
+5. **Motivação Regulatória**:
+   - A atualização reflete a necessidade de aprimorar a qualidade e a padronização das informações contábeis e prudenciais enviadas ao Banco Central, alinhando-se a práticas internacionais de supervisão.
 
-#### Políticas Impactadas
-- **POL-01:** Política de Governança Corporativa  
-- **POL-05:** Política de Gestão de Riscos  
-- **POL-12:** Política de Controles Internos e Compliance  
+#### Classificação Proposta
+**APLICÁVEL** — A norma impacta diretamente as operações do iFood Pago como conglomerado prudencial, exigindo adaptações nos processos de reporte contábil e prudencial.
 
-#### Impacto por Produto
-- **Pix:** Não impacta diretamente.  
-- **Conta de Pagamento:** Impacto indireto.  
-- **Cartão Pré-pago:** Impacto direto.  
-- **Credenciamento/Subcredenciamento:** Não impacta.  
-- **BaaS:** Não impacta.  
-- **SCD:** Impacto direto.  
-- **Open Finance:** Não impacta diretamente.
+#### Próximos Passos Recomendados
+1. **Análise Detalhada**:
+   - Revisar o texto integral da IN BCB nº 753/2026 e da IN BCB nº 210/2021 para identificar todas as alterações relevantes.
+   - Mapear os ajustes necessários nos sistemas e processos de reporte.
 
-#### Avaliação de Risco
-- **Pilar Legal:** 3  
-- **Pilar Operacional:** 2  
-- **Pilar Reputacional:** 2  
-- **Pilar Financeiro:** 2  
-- **Score Total:** 9  
-- **Criticidade:** ALTA  
+2. **Engajamento Interno**:
+   - Envolver as áreas de Contabilidade, Governança e Compliance para avaliar o impacto técnico e operacional.
+   - Validar se os sistemas atuais suportam os novos leiautes e instruções de preenchimento.
 
-#### Próximos Passos
-1. **Adaptação de Sistemas:** Atualizar os sistemas contábeis para atender aos novos leiautes e instruções de preenchimento.  
-2. **Treinamento:** Capacitar as equipes respon
+3. **Prazo de Adaptação**:
+   - Confirmar com o Banco Central os prazos para implementação das mudanças.
+   - Estabelecer um plano de ação para garantir a conformidade dentro do prazo regulatório.
+
+4. **Monitoramento Contínuo**:
+   - Acompanhar eventuais FAQs ou normas
 
 ---
 
-*Pipeline normativos-bcb | iFood Pago Compliance | 08/07/2026 12:05*
+*Pipeline normativos-bcb | iFood Pago Compliance | 08/07/2026 12:10*
