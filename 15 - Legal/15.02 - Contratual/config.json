@@ -1,0 +1,33 @@
+{
+  "jira": {
+    "base_url": "https://api.atlassian.com/ex/jira/accc6d18-01aa-4469-a840-d3f2a47e2502",
+    "cloud_id": "accc6d18-01aa-4469-a840-d3f2a47e2502",
+    "project": "JURFIN",
+    "filtro_tipo": "Aditivos não padrão",
+    "filtro_empresa": "iFood Benefícios"
+  },
+  "slack": {
+    "canal_aditamentos": "C033DR3282G"
+  },
+  "google_docs": {
+    "modelo_aditamento_id": "1SmFtCs4tb_oAnOp006cDVVjD1ysOfMUHFzXCqxs685o",
+    "drive_folder_id": "1GXGZtSP9LIuKLmAgMXdCcH1cwqi07bh8",
+    "doc_nome_formato": "{descricao} — {ticket_id}",
+    "modelo_aditamento_nome": "Template Aditamentos iFood Benefícios v3 — marcadores-only",
+    "modelo_aditamento_v2": "1FMnV6-U3TNfB1LJVDlQDkVufKB38Hzn3yuswrC4cSfI"
+  },
+  "gitlab": {
+    "project_id": "28451",
+    "branch": "main",
+    "path_base": "15 - Legal/15.02 - Contratual/15.02.01 - Aditamentos"
+  },
+  "score": {
+    "threshold_autonomo": 0.9
+  },
+  "llm": {
+    "provider": "toqan",
+    "timeout": 120,
+    "agente1_id": "a1c0fb45-d009-4cf2-a9ee-8d5aeadbd64f",
+    "agente2_id": "440a0bec-0a4f-4e54-8ac6-1329458cc3f3"
+  }
+}
