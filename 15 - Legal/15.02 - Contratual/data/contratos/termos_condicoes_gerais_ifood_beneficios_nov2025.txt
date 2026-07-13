@@ -1,0 +1,42 @@
+TERMOS E CONDIÇÕES GERAIS DE CONTRATAÇÃO DO IFOOD BENEFÍCIOS
+Atualizado em: 03 de novembro de 2025
+Google Drive ID: 1sZsNb9JkvcR2z4SLNuumLBv5qO2avEHn
+
+## CLÁUSULAS-CHAVE PARA ADITAMENTOS
+
+### Cláusula 10.2 — Renovação automática
+"Uma vez transcorrido o prazo de vigência inicial, o Contrato será prorrogado automaticamente por iguais e sucessivos períodos, exceto mediante manifestação contrária de qualquer das partes, enviada com 90 (noventa) dias de antecedência do término de cada prazo estabelecido."
+
+### Cláusula 10.3 — Rescisão imotivada
+"A Empresa poderá solicitar a exclusão de algum Benefício, mantendo o Contrato vigente para os demais, ou solicitar a resilição do Contrato, imotivadamente, devendo, em ambos os casos, enviar aviso por escrito ao iFood Benefícios com no mínimo 90 (noventa) dias de antecedência."
+
+Subcláusula 10.3.1 — Multa: aplica-se se rescisão ocorrer nos primeiros 240 dias de vigência de cada benefício específico, calculada com base no Valor Base de Rescisão (padrão: R$ 16,86) × quantidade de cartões físicos emitidos.
+
+Subcláusula 10.3.2 — Exceções à multa: empresas que operaram exclusivamente na Modalidade Cardless, ou que migraram para Emissão Full pagando integralmente a Taxa de Emissão.
+
+Subcláusula 10.3.3 — Durante aviso prévio: manter pedidos dentro do valor mínimo com redução máxima de 20%.
+
+### Cláusula 16.6 — Cessão (ASSIMÉTRICA)
+"A Empresa reconhece e concorda que o iFood Benefícios poderá ceder e transferir os seus direitos e obrigações previstos no Contrato a quaisquer terceiros. A Empresa, por sua vez, não poderá ceder e transferir os seus direitos e obrigações previstos no Contrato, sem a prévia anuência do iFood Benefícios."
+
+ATENÇÃO: O modelo de aditamento prevê cessão bilateral com anuência mútua. O contrato-padrão é ASSIMÉTRICO. Verificar com o jurídico qual versão prevalece no caso concreto.
+
+## Produtos cobertos por este contrato
+- iFood Alimentação (PAT)
+- iFood Refeição / Comer no iFood (PAT)
+- Saldo Alimentação+Refeição / Comer no iFood (não-PAT)
+- Saldo Cultura & Entretenimento
+- Saldo Educação
+- Saldo Home Office
+- Saldo Mobilidade
+- Saldo Saúde e Bem-Estar
+- Saldo Farmácia
+- Saldo Livre
+
+## Produtos NÃO cobertos (Condições Específicas separadas)
+- ISA (Incentivo Saúde Alimentar)
+- Saldo Extra
+- Saldo Natal
+
+## Mudança terminológica (jun/2025)
+"Auxílio-Alimentação" e "Auxílio-Refeição" → "Saldo Alimentação+Refeição" (desde 09/06/2025)
