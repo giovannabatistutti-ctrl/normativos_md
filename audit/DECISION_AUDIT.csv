@@ -412,4 +412,49 @@ Fórmula: Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0
 ---
 
 *Reanálise automática realizada pelo Pipeline 3A — 2026-07-14 10:38*
-","[]","[]","ementa","alta","0.85","2995498","Reanálise disparada por feedback de Giovanna Batistutti","null","null"
+","[]","[]","ementa","alta","0.85","2995498","Reanálise disparada por feedback de Giovanna Batistutti","a63201c8ac23a2de7e06d5947e392e197d2e63e3","null"
+"audit_2026_07_14_a94b34e8","2026-07-14T10:38:16.123166-03:00","Instrução Normativa BCB nº 742 de 09/06/2026","Instrução Normativa BCB","742","","Instrução Normativa BCB nº 742 de 09/06/2026","reanalise_feedback","pipeline_reanalise","","MONITORAR","REANÁLISE pós-feedback #C07SA5U2VPF_1781035173.652689. Classificação alterada de MONITORAR para . Justificativa: . Reasoning Layer: Reanálise aplicou REASONING_LAYER completo","Reanálise aplicou REASONING_LAYER completo","Feedback corretivo #C07SA5U2VPF_1781035173.652689 disparou reanálise","","","{}","
+
+---
+
+## 🔄 REANÁLISE — Feedback Corretivo #C07SA5U2VPF_1781035173.652689
+
+**Data da reanálise:** 2026-07-14 10:38 (Horário de Brasília)
+**Motivo:** Feedback corretivo recebido de Giovanna Batistutti (Compliance — iFood Pago)
+
+### Classificação Original vs. Corrigida
+
+| Aspecto | Original | Corrigida |
+|---------|----------|-----------|
+| **Aplicabilidade** | MONITORAR | ❓ **** |
+
+### Justificativa da Correção
+
+
+
+---
+
+*Reanálise automática realizada pelo Pipeline 3A — 2026-07-14 10:38*
+","[]","C07SA5U2VPF_1781035173.652689","Corretivo","Giovanna Batistutti","","Classificação alterada de MONITORAR para . ","
+
+---
+
+## 🔄 REANÁLISE — Feedback Corretivo #C07SA5U2VPF_1781035173.652689
+
+**Data da reanálise:** 2026-07-14 10:38 (Horário de Brasília)
+**Motivo:** Feedback corretivo recebido de Giovanna Batistutti (Compliance — iFood Pago)
+
+### Classificação Original vs. Corrigida
+
+| Aspecto | Original | Corrigida |
+|---------|----------|-----------|
+| **Aplicabilidade** | MONITORAR | ❓ **** |
+
+### Justificativa da Correção
+
+
+
+---
+
+*Reanálise automática realizada pelo Pipeline 3A — 2026-07-14 10:38*
+","[]","[]","ementa","alta","0.85","2995508","Reanálise disparada por feedback de Giovanna Batistutti","null","null"
