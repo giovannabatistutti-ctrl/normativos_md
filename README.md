@@ -148,3 +148,6 @@ Repositório de normativos do Banco Central do Brasil capturados e classificados
 
 
 | 2026-07-08 | [Instrução Normativa BCB nº 741](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741) | 🟡 MONITORAR | BAIXO |
+
+
+| 2026-07-17 | [Instrução Normativa BCB nº 762](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762) | 🟡 MONITORAR | BAIXO |
