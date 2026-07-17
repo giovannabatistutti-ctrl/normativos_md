@@ -40,4 +40,47 @@ Fórmula: Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0
 
 Score consolidado: BAIXO (média ponderada: 1.22/4.0, divisor 4.5)
 Lógica: Score médio ponderado: 1.22/4.0 (divisor 4.5)
-Fórmula: Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, dividido por 4.5. Se qualquer pilar=CRÍTICO → mínimo ALTO.","{""operacional"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto operacional não identificado ou mínimo."", ""evidencias"": []}, ""regulatorio"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto regulatório não identificado ou mínimo."", ""evidencias"": []}, ""financeiro"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto financeiro não identificado ou mínimo."", ""evidencias"": []}, ""clientes"": {""score"": ""MÉDIO"", ""score_numerico"": 2, ""justificativa"": ""Impacto moderado em clientes (B2B): cliente."", ""evidencias"": [""cliente""]}, ""consolidado"": {""score"": ""BAIXO"", ""score_numerico"": 1.2222222222222223, ""justificativa"": ""Score médio ponderado: 1.22/4.0 (divisor 4.5)"", ""formula"": ""Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, divisor=4.5""}}","","[""Operações""]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.6","0","","null","null","False","","","","False","","","","",""
+Fórmula: Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, dividido por 4.5. Se qualquer pilar=CRÍTICO → mínimo ALTO.","{""operacional"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto operacional não identificado ou mínimo."", ""evidencias"": []}, ""regulatorio"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto regulatório não identificado ou mínimo."", ""evidencias"": []}, ""financeiro"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto financeiro não identificado ou mínimo."", ""evidencias"": []}, ""clientes"": {""score"": ""MÉDIO"", ""score_numerico"": 2, ""justificativa"": ""Impacto moderado em clientes (B2B): cliente."", ""evidencias"": [""cliente""]}, ""consolidado"": {""score"": ""BAIXO"", ""score_numerico"": 1.2222222222222223, ""justificativa"": ""Score médio ponderado: 1.22/4.0 (divisor 4.5)"", ""formula"": ""Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, divisor=4.5""}}","","[""Operações""]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.6","0","","93193bb4af71fccf121fe61b2cccd7d932b62b31","null","False","","","","False","","","","",""
+"audit_2026_07_17_baa08971","2026-07-17T17:22:23.444326-03:00","normativos_52971","Instrução Normativa BCB","760","2026","BC - Instrução Normativa BCB N° 760 de 09/07/2026","inicial","pipeline_bcb","APLICÁVEL","null","Normativo: Instrução Normativa BCB nº 760 (2026). Reasoning Layer aplicado: [KEYWORD+LLM] A IN BCB nº 760 aplica-se diretamente ao iFood Pago pois divulga a versão 9.0 do manual de experiência do cliente no open finance. Menciona explicitamente: open finance. Temas relevantes: open finance.. Racional base:","[KEYWORD+LLM] A IN BCB nº 760 aplica-se diretamente ao iFood Pago pois divulga a versão 9.0 do manual de experiência do cliente no open finance. Menciona explicitamente: open finance. Temas relevantes: open finance.","[KEYWORD+LLM] A IN BCB nº 760 aplica-se diretamente ao iFood Pago pois divulga a versão 9.0 do manual de experiência do cliente no open finance. Menciona explicitamente: open finance. Temas relevantes: open finance.","BAIXO","[Impacto Operacional] Score: BAIXO (1/4) | Justificativa: Impacto operacional não identificado ou mínimo. | Evidências: nenhuma evidência direta
+[Impacto Regulatório] Score: BAIXO (1/4) | Justificativa: Impacto regulatório não identificado ou mínimo. | Evidências: nenhuma evidência direta
+[Impacto Financeiro] Score: BAIXO (1/4) | Justificativa: Impacto financeiro não identificado ou mínimo. | Evidências: nenhuma evidência direta
+[Impacto em Clientes] Score: MÉDIO (2/4) | Justificativa: Impacto moderado em clientes (não especificado): cliente. | Evidências: cliente
+
+Score consolidado: BAIXO (média ponderada: 1.22/4.0, divisor 4.5)
+Lógica: Score médio ponderado: 1.22/4.0 (divisor 4.5)
+Fórmula: Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, dividido por 4.5. Se qualquer pilar=CRÍTICO → mínimo ALTO.","{""operacional"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto operacional não identificado ou mínimo."", ""evidencias"": []}, ""regulatorio"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto regulatório não identificado ou mínimo."", ""evidencias"": []}, ""financeiro"": {""score"": ""BAIXO"", ""score_numerico"": 1, ""justificativa"": ""Impacto financeiro não identificado ou mínimo."", ""evidencias"": []}, ""clientes"": {""score"": ""MÉDIO"", ""score_numerico"": 2, ""justificativa"": ""Impacto moderado em clientes (não especificado): cliente."", ""evidencias"": [""cliente""]}, ""consolidado"": {""score"": ""BAIXO"", ""score_numerico"": 1.2222222222222223, ""justificativa"": ""Score médio ponderado: 1.22/4.0 (divisor 4.5)"", ""formula"": ""Operacional×1.0 + Regulatório×1.5 + Financeiro×1.0 + Clientes×1.0, divisor=4.5""}}","","[""Compliance"", ""Produtos"", ""Compliance/PLD (1ª e 2ª linhas)""]","null","null","null","null","null","null","[]","[]","ementa","MÉDIA","0.5","0","","null","null","True","","","A IN BCB nº 760/2026 divulga nova versão do Manual de Experiência do Cliente no Open Finance, tema diretamente aplicável ao iFood Pago enquanto participante/ITP Open Finance, com impacto principalmente em experiência do usuário e possíveis ajustes de plataforma associados.","False","NÃO.","Afeta participantes do Open Finance, especialmente instituições envolvidas em jornadas de consentimento, iniciação, compartilhamento de dados e experiência do cliente. O iFood Pago está entre as entidades potencialmente afetadas por atuar como ITP Open Finance e/ou participante do ecossistema.","Impacta Open Finance, com reflexos em jornadas de consentimento, telas, comunicação ao cliente, UX, acessibilidade, transparência e possivelmente registros/logs de consentimento. Pode também impactar Conta Pagamento se houver jornada vinculada ao compartilhamento ou uso de dados de conta.","MODO CLASSIFICAÇÃO RÁPIDA — ANÁLISE ESTRUTURADA
+
+Normativo: Instrução Normativa BCB nº 760/2026
+Ementa: Divulga a versão 9.0 do Manual de Experiência do Cliente no Open Finance.
+Texto (1500 chars): 
+Keyword inicial: APLICÁVEL
+
+Analise obrigatoriamente em 3 passos:
+
+PASSO_1_ESCOPO: Este normativo trata de tema FORA DO ESCOPO do iFood Pago?
+  Fora do escopo: câmbio, crédito rural, crédito imobiliário, ativos virtuais,
+  seguros SUSEP, cooperativas, normas internas BCB (PASBC, saúde servidores).
+  Responda: SIM (motivo) ou NÃO.
+
+PASSO_2_ENTIDADE: Quais entidades são afetadas? iFood Pago atua como IP, SCD,
+  Participante Pix, ITP Open Finance, subcredenciador/credenciador, BaaS.
+  Responda: entidades afetadas e se o iFood Pago está entre elas.
+
+PASSO_3_TEMA: O tema impacta produto do iFood Pago?
+  Produtos: Conta Pagamento, Cartão, Pix, Open Finance, BNPL, Antecipação,
+  POS, BaaS, LGPD, PLD/FT, COSIF/CADOC, Patrimônio Líquido, tarifas.
+  Responda: quais produtos/temas são impactados.
+
+CLASSIFICACAO: [APLICÁVEL|MONITORAR|NÃO APLICÁVEL]
+JUSTIFICATIVA: [síntese em uma frase]","<think>**Considering output format**
+
+I see that the instructions say to include ""ARQUIVO_GITLAB"" at the end for analyses, but the quick mode user gave a strict format. Maybe I should avoid it to meet the exact requirements. The ""MODO CLASSIFICAÇÃO RÁPIDA"" asks for specific fields. I wonder if I should drop emojis as well. It looks like I’m potentially overthinking this, but getting the format right seems really important!</think>PASSO_1_ESCOPO: NÃO.  
+O normativo trata de Open Finance, especificamente do Manual de Experiência do Cliente, tema dentro do escopo regulatório do iFood Pago.
+
+PASSO_2_ENTIDADE: Afeta participantes do Open Finance, especialmente instituições envolvidas em jornadas de consentimento, iniciação, compartilhamento de dados e experiência do cliente. O iFood Pago está entre as entidades potencialmente afetadas por atuar como ITP Open Finance e/ou participante do ecossistema.
+
+PASSO_3_TEMA: Impacta Open Finance, com reflexos em jornadas de consentimento, telas, comunicação ao cliente, UX, acessibilidade, transparência e possivelmente registros/logs de consentimento. Pode também impactar Conta Pagamento se houver jornada vinculada ao compartilhamento ou uso de dados de conta.
+
+CLASSIFICACAO: APLICÁVEL
+
+JUSTIFICATIVA: A IN BCB nº 760/2026 divulga nova versão do Manual de Experiência do Cliente no Open Finance, tema diretamente aplicável ao iFood Pago enquanto participante/ITP Open Finance, com impacto principalmente em experiência do usuário e possíveis ajustes de plataforma associados."
