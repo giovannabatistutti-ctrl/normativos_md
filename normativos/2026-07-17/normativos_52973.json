@@ -1,0 +1,228 @@
+{
+  "normativo": {
+    "id": "normativos_52973",
+    "titulo": "BC - Instrução Normativa BCB N° 762 de 10/07/2026",
+    "ementa": "Altera as Instruções Normativas BCB ns. 428 e 430, ambas de 1º de dezembro de 2023, que definem as rubricas contábeis dos grupos Compensação Ativa e Patrimônio Líquido do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "data_publicacao": "2026-07-16T18:37:39-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "762",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762",
+    "capturado_em": "2026-07-17T17:04:01.201906-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52973",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 762 de 10/07/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A IN BCB nº 762 não é diretamente aplicável mas deve ser monitorada pois altera as instruções normativas bcb ns. 428 e 430, ambas de 1º de dezembro de 2023, que definem as rubricas contábeis dos grupos compensação ativa e patrimônio líquido do elenco de contas do padrão co Temas a acompanhar: banco.",
+    "passo1_tipo": "Instrução Normativa BCB nº 762 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] banco central",
+      "[APLICÁVEL] patrimônio líquido",
+      "[APLICÁVEL] cosif",
+      "[APLICÁVEL] pos ",
+      "[MONITORAR] banco"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-019",
+        "nome": "Política de Remuneração de Administradores",
+        "area_responsavel": "Conselho de Administração (aprovação); RH/People (proposta); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-019"
+      },
+      {
+        "codigo": "iFP-PRD-05",
+        "nome": "Procedimento de Resposta a Incidentes (v2)",
+        "area_responsavel": "CISO/SOC (detecção e resposta); Jurídico (notificações regulatórias); DPO (LGPD); Compliance (monitoramento); Comunicação (clientes).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-PRD-05"
+      },
+      {
+        "codigo": "iFP-POL-025",
+        "nome": "Política de Gestão de Instrumentos Financeiros",
+        "area_responsavel": "ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-025"
+      },
+      {
+        "codigo": "iFP-MdN-01",
+        "nome": "Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR)",
+        "area_responsavel": "Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-01"
+      },
+      {
+        "codigo": "iFP-MdN-02",
+        "nome": "Modelo de Negócios: Carteira de Crédito classificada a VJR",
+        "area_responsavel": "Tesouraria/Crédito; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-02"
+      },
+      {
+        "codigo": "iFP-MdN-03",
+        "nome": "Modelo de Negócios: TVMs classificados a VJORA",
+        "area_responsavel": "Tesouraria/ALCO; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-03"
+      },
+      {
+        "codigo": "iFP-MdN-04",
+        "nome": "Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA)",
+        "area_responsavel": "Tesouraria/ALCO; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-04"
+      },
+      {
+        "codigo": "iFP-POL-003",
+        "nome": "Política de Ouvidoria",
+        "area_responsavel": "Ouvidoria (execução e reporte ao BCB); Compliance (monitoramento); Alta Administração (recebimento de relatórios).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-003"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)",
+    "llm_confirmou": false,
+    "llm_classificacao": null,
+    "llm_justificativa": "",
+    "llm_passo1_escopo": "",
+    "llm_passo2_entidade": "",
+    "llm_passo3_tema": "",
+    "llm_prompt_enviado": "",
+    "llm_resposta_bruta": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52973",
+    "normativo_titulo": "BC - Instrução Normativa BCB N° 762 de 10/07/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.0,
+    "justificativa_consolidada": "Score médio ponderado: 1.00/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52973",
+    "titulo": "BC - Instrução Normativa BCB N° 762 de 10/07/2026",
+    "tipo": "Instrução Normativa BCB",
+    "numero": "762",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Altera as Instruções Normativas BCB ns. 428 e 430, ambas de 1º de dezembro de 2023, que definem as rubricas contábeis dos grupos Compensação Ativa e Patrimônio Líquido do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "para_quem_se_aplica": "**Produtos:** POS (Máquina de Cartão)",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-019 — Política de Remuneração de Administradores (Conselho de Administração (aprovação); RH/People (proposta); Compliance (monitoramento).)",
+      "iFP-PRD-05 — Procedimento de Resposta a Incidentes (v2) (CISO/SOC (detecção e resposta); Jurídico (notificações regulatórias); DPO (LGPD); Compliance (monitoramento); Comunicação (clientes).)",
+      "iFP-POL-025 — Política de Gestão de Instrumentos Financeiros (ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).)",
+      "iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) (Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).)",
+      "iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)",
+      "iFP-MdN-03 — Modelo de Negócios: TVMs classificados a VJORA (Tesouraria/ALCO; Contabilidade; Compliance.)",
+      "iFP-MdN-04 — Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA) (Tesouraria/ALCO; Contabilidade; Compliance.)",
+      "iFP-POL-003 — Política de Ouvidoria (Ouvidoria (execução e reporte ao BCB); Compliance (monitoramento); Alta Administração (recebimento de relatórios).)"
+    ],
+    "areas_responsaveis": [
+      "Financeiro / Tesouraria / Tesouraria — Avaliar requisitos de patrimônio líquido",
+      "Contabilidade / Financeiro / Contabilidade Regulatória — Revisar adequação COSIF",
+      "Conselho de Administração (aprovação) / Responsável por iFP-POL-019 — Revisar iFP-POL-019 — Política de Remuneração de Administradores para adequação ao normativo",
+      "CISO/SOC (detecção e resposta) / Responsável por iFP-PRD-05 — Revisar iFP-PRD-05 — Procedimento de Resposta a Incidentes (v2) para adequação ao normativo",
+      "ALCO / Tesouraria (gestão) / Responsável por iFP-POL-025 — Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo",
+      "Tesouraria/ALCO (gestão) / Responsável por iFP-MdN-01 — Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo",
+      "Tesouraria/Crédito / Responsável por iFP-MdN-02 — Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762",
+    "data_publicacao": "2026-07-16T18:37:39-03:00",
+    "data_analise": "2026-07-17 17:04",
+    "markdown": "# BC - Instrução Normativa BCB N° 762 de 10/07/2026\n\n> **Análise iFood Pago | Compliance** — 2026-07-17 17:04\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Instrução Normativa BCB |\n| **Número** | 762 |\n| **Data de Publicação** | 2026-07-16T18:37:39-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nAltera as Instruções Normativas BCB ns. 428 e 430, ambas de 1º de dezembro de 2023, que definem as rubricas contábeis dos grupos Compensação Ativa e Patrimônio Líquido do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).\n\n---\n\n## Para Quem se Aplica\n\n**Produtos:** POS (Máquina de Cartão)\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: INs BCB sobre Jornada Otimizada (Open Finance) — o iFood Pago é ITP ✅ e Detentor de Conta ✅, mas NÃO é Transmissor de Dados ❌ nem Receptor de Dados ❌. A oferta da Jornada Otimizada é obrigatória apenas para quem acumula Transmissor de Dados + Detentor de Conta simultaneamente. Para o iFood Pago: classificar como ⚠️ MONITORAR (pode participar opcionalmente como ITP)\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-019 — Política de Remuneração de Administradores (Conselho de Administração (aprovação); RH/People (proposta); Compliance (monitoramento).)\n- iFP-PRD-05 — Procedimento de Resposta a Incidentes (v2) (CISO/SOC (detecção e resposta); Jurídico (notificações regulatórias); DPO (LGPD); Compliance (monitoramento); Comunicação (clientes).)\n- iFP-POL-025 — Política de Gestão de Instrumentos Financeiros (ALCO / Tesouraria (gestão); Contabilidade (mensuração e reporte); Compliance/Regulatório (COSIF e BCB); Riscos (risco de mercado e liquidez).)\n- iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) (Tesouraria/ALCO (gestão); Contabilidade (evidência contábil); Compliance (monitoramento).)\n- iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)\n- iFP-MdN-03 — Modelo de Negócios: TVMs classificados a VJORA (Tesouraria/ALCO; Contabilidade; Compliance.)\n- iFP-MdN-04 — Modelo de Negócios: TVMs classificados ao Custo Amortizado (CA) (Tesouraria/ALCO; Contabilidade; Compliance.)\n- iFP-POL-003 — Política de Ouvidoria (Ouvidoria (execução e reporte ao BCB); Compliance (monitoramento); Alta Administração (recebimento de relatórios).)\n\n---\n\n## Áreas Responsáveis\n\n- Financeiro / Tesouraria / Tesouraria — Avaliar requisitos de patrimônio líquido\n- Contabilidade / Financeiro / Contabilidade Regulatória — Revisar adequação COSIF\n- Conselho de Administração (aprovação) / Responsável por iFP-POL-019 — Revisar iFP-POL-019 — Política de Remuneração de Administradores para adequação ao normativo\n- CISO/SOC (detecção e resposta) / Responsável por iFP-PRD-05 — Revisar iFP-PRD-05 — Procedimento de Resposta a Incidentes (v2) para adequação ao normativo\n- ALCO / Tesouraria (gestão) / Responsável por iFP-POL-025 — Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo\n- Tesouraria/ALCO (gestão) / Responsável por iFP-MdN-01 — Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo\n- Tesouraria/Crédito / Responsável por iFP-MdN-02 — Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Financeiro / Tesouraria",
+      "time": "Tesouraria",
+      "acao": "Avaliar requisitos de patrimônio líquido",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Contabilidade / Financeiro",
+      "time": "Contabilidade Regulatória",
+      "acao": "Revisar adequação COSIF",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Conselho de Administração (aprovação)",
+      "time": "Responsável por iFP-POL-019",
+      "acao": "Revisar iFP-POL-019 — Política de Remuneração de Administradores para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "CISO/SOC (detecção e resposta)",
+      "time": "Responsável por iFP-PRD-05",
+      "acao": "Revisar iFP-PRD-05 — Procedimento de Resposta a Incidentes (v2) para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "ALCO / Tesouraria (gestão)",
+      "time": "Responsável por iFP-POL-025",
+      "acao": "Revisar iFP-POL-025 — Política de Gestão de Instrumentos Financeiros para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Tesouraria/ALCO (gestão)",
+      "time": "Responsável por iFP-MdN-01",
+      "acao": "Revisar iFP-MdN-01 — Modelo de Negócios: TVMs classificados a Valor Justo no Resultado (VJR) para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    },
+    {
+      "area": "Tesouraria/Crédito",
+      "time": "Responsável por iFP-MdN-02",
+      "acao": "Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A"
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-07-17T17:04:45.642829-03:00"
+  }
+}
