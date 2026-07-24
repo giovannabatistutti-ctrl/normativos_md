@@ -1,0 +1,170 @@
+{
+  "normativo": {
+    "id": "normativos_52982",
+    "titulo": "BC - Resolução CMN N° 5.331 de 23/07/2026",
+    "ementa": "Disciplina linha de crédito com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT a ser executada mediante crédito descentralizado concedido por agências de fomento, bancos de desenvolvimento ou instituições de crédito oficiais credenciados pela Financiadora de Estudos e Projetos – Finep, nos termos do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007.",
+    "data_publicacao": "2026-07-23T18:01:37-03:00",
+    "data_vigencia": null,
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331",
+    "tipo": "Resolução CMN",
+    "numero": "5.331",
+    "ano_norma": "2026",
+    "texto_integral": "",
+    "texto_fonte": "ementa",
+    "url_fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331",
+    "capturado_em": "2026-07-23T21:01:06.214913-03:00"
+  },
+  "classificacao": {
+    "normativo_id": "normativos_52982",
+    "normativo_titulo": "BC - Resolução CMN N° 5.331 de 23/07/2026",
+    "classificacao": "MONITORAR",
+    "confianca": "MÉDIA",
+    "justificativa": "A Res. CMN nº 5.331 não é diretamente aplicável mas deve ser monitorada pois disciplina linha de crédito com recursos do fundo nacional de desenvolvimento científico e tecnológico – fndct a ser executada mediante crédito descentralizado concedido por agências de fomento, banco Temas a acompanhar: banco.",
+    "passo1_tipo": "Resolução CMN nº 5.331 (2026)",
+    "passo2_atinge_ifood": false,
+    "passo2_razoes": [],
+    "passo3_temas": [
+      "[APLICÁVEL] crédito",
+      "[MONITORAR] banco"
+    ],
+    "passo4_classificacao": "MONITORAR",
+    "passo5_politicas": [
+      {
+        "codigo": "iFP-POL-020",
+        "nome": "Política de Precificação",
+        "area_responsavel": "Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-020"
+      },
+      {
+        "codigo": "iFP-POL-024",
+        "nome": "Política de Cobrança",
+        "area_responsavel": "Cobrança/Recovery (execução); Jurídico (ajuizamento e cessão); Compliance (conformidade CDC e BCB); Riscos (estratégia por cluster).",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-POL-024"
+      },
+      {
+        "codigo": "iFP-MdN-02",
+        "nome": "Modelo de Negócios: Carteira de Crédito classificada a VJR",
+        "area_responsavel": "Tesouraria/Crédito; Contabilidade; Compliance.",
+        "acao_sugerida": "Verificar impacto do normativo nos procedimentos cobertos por iFP-MdN-02"
+      }
+    ],
+    "data_vigencia": null,
+    "reasoning_layer_versao": "CONTEXTO_IFOOD_PAGO.md + DECISION_LAYER.md (2 camadas)",
+    "feedback_aplicado": true,
+    "feedback_notas": "Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago",
+    "llm_confirmou": false,
+    "llm_classificacao": null,
+    "llm_justificativa": "",
+    "llm_passo1_escopo": "",
+    "llm_passo2_entidade": "",
+    "llm_passo3_tema": "",
+    "llm_prompt_enviado": "",
+    "llm_resposta_bruta": ""
+  },
+  "avaliacao": {
+    "normativo_id": "normativos_52982",
+    "normativo_titulo": "BC - Resolução CMN N° 5.331 de 23/07/2026",
+    "classificacao": "MONITORAR",
+    "pilar_operacional": {
+      "pilar": "Impacto Operacional",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto operacional não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_regulatorio": {
+      "pilar": "Impacto Regulatório",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto regulatório não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_financeiro": {
+      "pilar": "Impacto Financeiro",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto financeiro não identificado ou mínimo.",
+      "elementos_identificados": []
+    },
+    "pilar_clientes": {
+      "pilar": "Impacto em Clientes",
+      "score": "BAIXO",
+      "score_numerico": 1,
+      "justificativa": "Impacto em clientes não identificado.",
+      "elementos_identificados": []
+    },
+    "score_consolidado": "BAIXO",
+    "score_numerico": 1.0,
+    "justificativa_consolidada": "Score médio ponderado: 1.00/4.0 (divisor 4.5)",
+    "prazo_adequacao": null,
+    "urgente": false
+  },
+  "resumo": {
+    "normativo_id": "normativos_52982",
+    "titulo": "BC - Resolução CMN N° 5.331 de 23/07/2026",
+    "tipo": "Resolução CMN",
+    "numero": "5.331",
+    "classificacao": "MONITORAR",
+    "score_criticidade": "BAIXO",
+    "o_que_determina": "Disciplina linha de crédito com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT a ser executada mediante crédito descentralizado concedido por agências de fomento, bancos de desenvolvimento ou instituições de crédito oficiais credenciados pela Financiadora de Estudos e Projetos – Finep, nos termos do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007.",
+    "para_quem_se_aplica": "A verificar — consultar norma original.",
+    "prazo_adequacao": "Não identificado — verificar norma",
+    "acoes_requeridas": [
+      "Considerar feedback anterior da equipe: Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago"
+    ],
+    "politicas_revisar": [
+      "iFP-POL-020 — Política de Precificação (Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).)",
+      "iFP-POL-024 — Política de Cobrança (Cobrança/Recovery (execução); Jurídico (ajuizamento e cessão); Compliance (conformidade CDC e BCB); Riscos (estratégia por cluster).)",
+      "iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)"
+    ],
+    "areas_responsaveis": [
+      "Risco de Crédito / SCD / Crédito — Avaliar impacto nas operações de crédito (SCD)",
+      "Product/Crédito (definição de preços) / Responsável por iFP-POL-020 — Revisar iFP-POL-020 — Política de Precificação para adequação ao normativo",
+      "Cobrança/Recovery (execução) / Responsável por iFP-POL-024 — Revisar iFP-POL-024 — Política de Cobrança para adequação ao normativo",
+      "Tesouraria/Crédito / Responsável por iFP-MdN-02 — Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo"
+    ],
+    "link_integra": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331",
+    "data_publicacao": "2026-07-23T18:01:37-03:00",
+    "data_analise": "2026-07-23 21:01",
+    "markdown": "# BC - Resolução CMN N° 5.331 de 23/07/2026\n\n> **Análise iFood Pago | Compliance** — 2026-07-23 21:01\n\n---\n\n## Identificação\n\n| Campo | Valor |\n|---|---|\n| **Tipo** | Resolução CMN |\n| **Número** | 5.331 |\n| **Data de Publicação** | 2026-07-23T18:01:37-03:00 |\n| **Link BCB** | [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331) |\n\n---\n\n## Classificação e Criticidade\n\n| Classificação | Score de Criticidade |\n|---|---|\n| 🟡 **MONITORAR** | 🟢 **BAIXO** |\n\n---\n\n## O Que a Norma Determina\n\nDisciplina linha de crédito com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT a ser executada mediante crédito descentralizado concedido por agências de fomento, bancos de desenvolvimento ou instituições de crédito oficiais credenciados pela Financiadora de Estudos e Projetos – Finep, nos termos do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007.\n\n---\n\n## Para Quem se Aplica\n\nA verificar — consultar norma original.\n\n---\n\n## Prazo de Adequação\n\nNão identificado — verificar norma\n\n---\n\n## Ações Requeridas\n\n- Considerar feedback anterior da equipe: Regra ativa: Normas de crédito imobiliário, financiamento habitacional e SFH/SFN habitacional são NÃO APLICÁVEL ao iFood Pago\n\n---\n\n## Políticas Internas a Revisar\n\n- iFP-POL-020 — Política de Precificação (Product/Crédito (definição de preços); Finanças/ALCO (funding e lucratividade); Riscos (risco de crédito); Compliance (transparência ao cliente).)\n- iFP-POL-024 — Política de Cobrança (Cobrança/Recovery (execução); Jurídico (ajuizamento e cessão); Compliance (conformidade CDC e BCB); Riscos (estratégia por cluster).)\n- iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR (Tesouraria/Crédito; Contabilidade; Compliance.)\n\n---\n\n## Áreas Responsáveis\n\n- Risco de Crédito / SCD / Crédito — Avaliar impacto nas operações de crédito (SCD)\n- Product/Crédito (definição de preços) / Responsável por iFP-POL-020 — Revisar iFP-POL-020 — Política de Precificação para adequação ao normativo\n- Cobrança/Recovery (execução) / Responsável por iFP-POL-024 — Revisar iFP-POL-024 — Política de Cobrança para adequação ao normativo\n- Tesouraria/Crédito / Responsável por iFP-MdN-02 — Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo\n\n---\n\n*Gerado automaticamente pelo pipeline normativos-bcb | iFood Pago Compliance*\n"
+  },
+  "responsaveis": [
+    {
+      "area": "Risco de Crédito",
+      "time": "SCD / Crédito",
+      "acao": "Avaliar impacto nas operações de crédito (SCD)",
+      "prioridade": "MÉDIA",
+      "segmento": "N/A",
+      "slack_ids": []
+    },
+    {
+      "area": "Product/Crédito (definição de preços)",
+      "time": "Responsável por iFP-POL-020",
+      "acao": "Revisar iFP-POL-020 — Política de Precificação para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A",
+      "slack_ids": []
+    },
+    {
+      "area": "Cobrança/Recovery (execução)",
+      "time": "Responsável por iFP-POL-024",
+      "acao": "Revisar iFP-POL-024 — Política de Cobrança para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A",
+      "slack_ids": []
+    },
+    {
+      "area": "Tesouraria/Crédito",
+      "time": "Responsável por iFP-MdN-02",
+      "acao": "Revisar iFP-MdN-02 — Modelo de Negócios: Carteira de Crédito classificada a VJR para adequação ao normativo",
+      "prioridade": "BAIXA",
+      "segmento": "N/A",
+      "slack_ids": []
+    }
+  ],
+  "metadata": {
+    "pipeline": "normativos-bcb",
+    "versao": "2.0",
+    "data_analise": "2026-07-23T21:01:14.729530-03:00"
+  }
+}
